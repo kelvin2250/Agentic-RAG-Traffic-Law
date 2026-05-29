@@ -1,0 +1,44 @@
+services:
+  ai-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: traffic-law-ai-service
+    ports:
+      - "8001:8001"
+    volumes:
+      # Mount mã nguồn để hỗ trợ hot-reload trong quá trình phát triển
+      - .:/app/ai
+      # Mount thư mục dữ liệu Qdrant và parent_dict từ thư mục root của dự án
+      - ../data-ingestion:/app/data-ingestion
+    env_file:
+      - ../.env
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+    environment:
+      - REDIS_URL=redis://redis-cache:6379/0
+      - QDRANT_URL=http://qdrant-server:6333
+      - PARENT_DICT_PATH=/app/data-ingestion/qdrant_db/parent_dict.json
+    depends_on:
+      - redis-cache
+      - qdrant-server
+    restart: always
+
+  redis-cache:
+    image: redis:7-alpine
+    container_name: traffic-law-redis-cache
+    ports:
+      - "6379:6379"
+    command: redis-server --save "" --appendonly no
+    restart: always
+
+  qdrant-server:
+    image: qdrant/qdrant:latest
+    container_name: traffic-law-qdrant-server
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ../data-ingestion/qdrant_db:/qdrant/storage
+    restart: always

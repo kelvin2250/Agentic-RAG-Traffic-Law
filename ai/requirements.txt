@@ -1,0 +1,67 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# Agentic RAG Traffic Law — Agent Service Dependencies
+# ═══════════════════════════════════════════════════════════════════════════
+--find-links https://download.pytorch.org/whl/cpu
+# ── LLM & AI ────────────────────────────────────────────────────────────────
+# LangChain core & ecosystem
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.1.0           # ChatOpenAI → dùng cho DeepSeek (OpenAI-compatible)
+langchain-google-genai>=1.0.0     # ChatGoogleGenerativeAI → dùng cho Gemini
+langchain-cohere>=0.1.0           # CohereRerank → rerank multilingual
+langchain-text-splitters>=0.0.1   # RecursiveCharacterTextSplitter → MCP retrieval server
+
+# LangGraph — multi-agent StateGraph
+langgraph>=0.2.0                  # StateGraph, START, END
+
+# Google GenAI SDK — structured output native (Orchestrator Agent)
+google-genai>=0.3.0               # genai.Client + response_schema Pydantic
+
+# Cohere API — rerank trực tiếp (MCP rerank server)
+cohere>=5.0.0                     # cohere.ClientV2 → rerank-v3.5
+
+# ── Embeddings & Vector Search ──────────────────────────────────────────────
+langchain-huggingface>=0.0.10     # HuggingFaceEmbeddings
+sentence-transformers>=2.2.0      # Backend cho HuggingFace embeddings
+qdrant-client>=1.9.0              # QdrantClient (local hoặc remote)
+langchain-qdrant>=0.1.0           # QdrantVectorStore
+
+# Token counting
+tiktoken>=0.7.0                   # Đếm token cho context window
+
+# ── MCP (Model Context Protocol) ────────────────────────────────────────────
+# SSE transport cho MCP client + FastMCP server
+mcp>=1.0.0                        # ClientSession, FastMCP, SseServerTransport
+starlette>=0.37.0                 # ASGI framework cho MCP server (Retrieval + Rerank)
+rank_bm25 >=0.2.1                     # BM25 ranking (fallback cho rerank)
+# ── Web Scraping ────────────────────────────────────────────────────────────
+requests>=2.31.0                  # HTTP client (fallback)
+trafilatura>=1.6.0                # HTML→Markdown extraction (fallback)
+
+# ── FastAPI (API Layer) ─────────────────────────────────────────────────────
+fastapi>=0.104.0                  # Web framework
+uvicorn[standard]>=0.24.0         # ASGI server
+
+# ── Cache ───────────────────────────────────────────────────────────────────
+redis>=5.0.0                      # redis.asyncio → cache layer
+
+# ── Database ────────────────────────────────────────────────────────────────
+sqlalchemy[asyncio]>=2.0.0        # Async SQLAlchemy engine + session
+asyncpg>=0.29.0                   # PostgreSQL async driver
+
+# ── Settings & Config ───────────────────────────────────────────────────────
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0              # load_dotenv → MCP server entry points
+
+# ── Tracing & Logging ───────────────────────────────────────────────────────
+# opentelemetry-api>=1.20.0       # (future — uncomment khi implement tracing)
+# opentelemetry-sdk>=1.20.0
+# opentelemetry-exporter-jaeger>=1.20.0
+
+# ── Testing ─────────────────────────────────────────────────────────────────
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.12.0
+httpx>=0.25.0                     # Async HTTP client (test FastAPI)

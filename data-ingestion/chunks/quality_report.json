@@ -1,0 +1,11 @@
+{
+  "total_chunks": 4052,
+  "article_level_UNKNOWN_ratio": "0.10%",
+  "clause_level_UNKNOWN_ratio": "0.10%",
+  "doc_types": {
+    "parent": 704,
+    "child": 3112,
+    "appendix": 232,
+    "unstructured": 4
+  }
+}

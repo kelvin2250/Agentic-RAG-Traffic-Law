@@ -1,0 +1,2705 @@
+{
+  "documents": [
+    {
+      "id": "10477",
+      "title": "Thông tư liên tịch số 03/TT-LB Hướng dẫn chế độ quản lý, cấp phát, thanh quyết toán vốn sửa chữa lớn cầu đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--10477",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"cầu đường bộ\", chỉ rõ nội dung liên quan trực tiếp đến domain GIAO THÔNG ĐƯỜNG BỘ.",
+      "is_traffic": true
+    },
+    {
+      "id": "10486",
+      "title": "Thông tư liên tịch số 28/TT-LB Quy định việc thu lệ phí về quản lý xe và lái xe cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--10486",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa cụm từ trọng tâm 'lái xe cơ giới đường bộ' thuộc nhóm dấu hiệu tích cực, liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "107428",
+      "title": "Quyết định số 13/1999/QÐ-BTC về việc ban hành mức thu phí sử dụng đường quốc lộ 1A trạm Trảng Bom km 1847 tỉnh Ðồng Nai",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--107428",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề liên quan trực tiếp đến thu phí sử dụng đường quốc lộ và trạm, thuộc về hạ tầng và sử dụng giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "107643",
+      "title": "Công văn số 3805-TC/TCT Công văn về việc kiểm tra thu học phí đào tạo Luật giao thông và lệ phí thi, cấp bằng lái xe cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--107643",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"Luật giao thông\" và \"bằng lái xe cơ giới đường bộ\", là dấu hiệu rõ ràng liên quan đến lĩnh vực Giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "107671",
+      "title": "Công văn số 861-TC/CTN Công văn về việc hướng dẫn thu nộp phí giao thông đường bộ và đường sông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--107671",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa CẢ yếu tố “đường bộ” và “đường sông”, thuộc nguyên tắc bao trùm, nên phải là TRUE để không bỏ sót dữ liệu.",
+      "is_traffic": true
+    },
+    {
+      "id": "107781",
+      "title": "Thông tư liên tịch số 56-TTLB/TC-NV Thông tư hướng dẫn việc thu và sử dụng tiền phạt đối với các hành vi vi phạm hành chính trong lĩnh vực an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--107781",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'giao thông đường bộ' và 'giao thông đô thị', đều thuộc phạm vi đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "10784",
+      "title": "Nghị định số 7-CP Về việc thành lập Cục đường bộ Việt nam trực thuộc Bộ giao thông vận tải",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--10784",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"Cục đường bộ Việt nam\", cho thấy nội dung liên quan trực tiếp đến lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "107996",
+      "title": "Thông tư liên tịch số 52-TT/LB Thông tư bổ sung, sửa đổi một số điểm về thực hiện chế độ thu phí giao thông đường bộ, đường sông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--107996",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cả \"đường bộ\" và \"đường sông\", thuộc nguyên tắc bao trùm, nên là TRUE.",
+      "is_traffic": true
+    },
+    {
+      "id": "108058",
+      "title": "Thông tư liên tịch số 42/1997/TTLB/BTC-BGTVT của Bộ tài chính - Giao thông vận tải số 42/1997/TTLB/BTC-BGTVT  ngày 5 tháng 7 năm 1997 hướng dẫn quản lý nguồn vốn vay NHTMCPHH đầu tư cho 3 dự án quốc lộ 14, 51 và đường Láng - Hoà lạc",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108058",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề nhắc đến các dự án \"quốc lộ\" và \"đường\" cụ thể, liên quan trực tiếp đến hạ tầng giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "108267",
+      "title": "Quyết định số 07/2000/QÐ-BTC về việc ban hành quy định thay thế tờ khai nguồn gốc xe ôtô, xe gắn máy nhập khẩu bằng biên lai thuế xuất khẩu, thuế nhập khẩu và thuế giá trị gia tăng mẫu CTT52",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108267",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa mạnh 'xe ôtô, xe gắn máy' liên quan trực tiếp đến phương tiện giao thông đường bộ, dù nội dung là về thuế.",
+      "is_traffic": true
+    },
+    {
+      "id": "108281",
+      "title": "Quyết định số 131-TC/QÐ/VT ban hành Quy chế bán đấu giá xe ô tô nhập từ nguồn viện trợ không hoàn lại 3 tỷ yên Nhật tài khoá 1994-1995",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108281",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa \"xe ô tô\", là dấu hiệu tích cực mạnh mẽ liên quan đến Giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "108436",
+      "title": "Thông tư liên tịch số 11-TT-LB Thông tư sửa đổi khoản phụ cấp đi đường quy định trong thông tư liên bộ số 10-TT-LB ngày 15-4-1955 cho anh em áp tải viên bưu phẩm trên ô-tô, tàu hỏa, ca-nô, tàu thủy",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108436",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề đề cập \"ô-tô\" (ô tô), là dấu hiệu rõ ràng của giao thông đường bộ, dù có bao gồm cả các phương tiện giao thông khác.",
+      "is_traffic": true
+    },
+    {
+      "id": "108437",
+      "title": "Thông tư liên tịch số 13-TT-LB Thông tư giải thích và hướng dẫn việc thi hành các khoản phụ cấp cho lái xe và phụ lái xe ô tô",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108437",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa \"ô tô\", \"lái xe\", \"phụ lái xe\", trực tiếp liên quan đến phương tiện và người điều khiển giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "108579",
+      "title": "Công văn số 2004-TC/TCT Công văn về việc miễn phí qua cầu, đường bộ, phà",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108579",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng từ \"đường bộ\", là dấu hiệu tích cực mạnh mẽ, liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "108724",
+      "title": "Thông tư liên tịch số 69/2000/TTLT-BTC-BGTVT Thông tư sửa đổi, bổ sung Thông tư liên tịch số 42/LB-TT ngày 5/7/1997 về quản lý nguồn vốn vay NHTMCPHH đầu tư 3 dự án quốc lộ 14, 51, đường Láng-Hoà Lạc",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108724",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề nhắc đến \"BGTVT\", \"quốc lộ\" và các tuyến đường cụ thể, liên quan trực tiếp đến hạ tầng và giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "108725",
+      "title": "Thông tư liên tịch số 58-TT/LB Thông tư bổ sung, sửa đổi một số điểm về thực hiện thu phí giao thông đường bộ, đường sông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108725",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cả \"đường bộ\" và \"đường sông\", thuộc nguyên tắc bao trùm, đảm bảo không bỏ sót dữ liệu.",
+      "is_traffic": true
+    },
+    {
+      "id": "108772",
+      "title": "Quyết định số 119/2008/QĐ-BTC Về việc quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng đường bộ trạm thu phí sông Phan, quốc lộ 1A, tỉnh Bình Thuận",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108772",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng các cụm từ \"phí sử dụng đường bộ\" và \"trạm thu phí\", liên quan trực tiếp đến giao thông đường bộ trên quốc lộ 1A.",
+      "is_traffic": true
+    },
+    {
+      "id": "108861",
+      "title": "Thông tư liên tịch số 05 TT/LB Thông tư hướng dẫn sửa đổi, bổ sung một số điểm về quản lý và sử dụng tiền thu phí qua cầu đường bộ.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--108861",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm \"cầu đường bộ\" và \"thu phí\", trực tiếp liên quan quản lý hạ tầng giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "109311",
+      "title": "Thông tư liên tịch số 133/1998/TTLT-BTC-BGTVT Thông tư hướng dẫn chế độ quản lý tài chính đối với doanh nghiệp Nhà nước hoạt động công ích trong ngành đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--109311",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"ngành đường bộ\", là từ khóa trọng tâm của domain \"GIAO THÔNG ĐƯỜNG BỘ\".",
+      "is_traffic": true
+    },
+    {
+      "id": "109372",
+      "title": "Quyết định số 17/2002/QÐ-BTC Về phân bổ mức vốn vay tín dụng ưu đãi để thực hiện chương trình kiên cố hoá kênh mương, đường giao thông nông thôn, cơ sở hạ tầng nuôi trồng thuỷ sản , cơ sở hạ tầng làng nghề nông thôn năm 2002.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--109372",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"đường giao thông nông thôn\", là một yếu tố thuộc lĩnh vực \"GIAO THÔNG ĐƯỜNG BỘ\" theo nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "10958",
+      "title": "Thông tư liên tịch số 80-TT/LB Hướng dẫn, bổ sung, sửa đổi một số điểm về thực hiện chế độ thu phí giao thông đường bộ, đường sông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--10958",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cả 'đường bộ' và 'đường sông', theo nguyên tắc bao trùm (ưu tiên cao nhất), cần trả về TRUE.",
+      "is_traffic": true
+    },
+    {
+      "id": "109594",
+      "title": "Công văn số 1349/TC-HCSN Công văn về việc kinh phí thanh toán phí sử dụng đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--109594",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ trọng tâm \"phí sử dụng đường bộ\", chỉ đích danh lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "109616",
+      "title": "Thông tư liên tịch số 77-TTLB/TC-NV Thông tư hướng dẫn thu và sử dụng tiền phạt đối với các hành vi vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--109616",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"giao thông đô thị\", đều thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "109706",
+      "title": "Thông tư số 94/1997/TT-BTC hướng dẫn bổ sung chế độ thu và quản lý Nhà nước về bảo đảm an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--109706",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'giao thông đường bộ' và 'an toàn giao thông đô thị', thuộc lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "109837",
+      "title": "Thông tư số 77-TC/TCT hướng dẫn chế độ thu, nộp và quản lý lệ phí Nhà nước về bảo đảm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--109837",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"giao thông đường bộ\" và \"giao thông đô thị\", khẳng định liên quan đến lĩnh vực đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "109877",
+      "title": "Quyết định số 70/QĐ-BTC Về việc phân bổ mức vốn vay tín dụng ưu đãi để thực hiện các chương trình kiên cố hóa kênh mương, phát triển đường giao thông nông thôn, cơ sở hạ tầng nuôi trồng thủy sản và cơ sở hạ tầng làng nghề ở nông thôn năm 2011",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--109877",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề đề cập \"đường giao thông nông thôn\", là nội dung liên quan trực tiếp đến Giao thông Đường bộ, dù có bao gồm lĩnh vực khác.",
+      "is_traffic": true
+    },
+    {
+      "id": "110018",
+      "title": "Công văn số 10506/TC/TCT Công văn về việc thuế nhập khẩu xe ô tô sát hạch lái xe",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--110018",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa các từ khóa mạnh 'xe ô tô' và 'sát hạch lái xe', liên quan trực tiếp đến lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "110036",
+      "title": "Quyết định số 98/2002/QÐ-BTC về việc áp dụng hình thức bán vé tháng thu phí sử dụng cầu, đường bộ qua Trạm thu phí T1-Quốc lộ 51",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--110036",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa các từ khóa 'đường bộ', 'trạm thu phí' và 'Quốc lộ 51', liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "110225",
+      "title": "Thông tư liên tịch số 80/1992/TTLT/BGTVT-BTC hướng dẫn, bổ sung, sửa đổi một số điểm về thực hiện chế độ thu phí giao thông đường bộ, đường sông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--110225",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cả 'đường bộ' và 'đường sông', theo nguyên tắc bao trùm, phải là TRUE.",
+      "is_traffic": true
+    },
+    {
+      "id": "110521",
+      "title": "Quyết định số 64/2004/QĐ - BTC Về việc ban hành mức thu phí sử dụng hầm đường bộ qua Đèo Ngang",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--110521",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"hầm đường bộ\", đây là dấu hiệu tích cực rõ ràng, liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "110888",
+      "title": "Thông tư số 108/2015/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng đường bộ trạm thu phí tại Kml610+800 và trạm thu phí tại Kml667+470, đường Hồ Chí Minh, tỉnh Gia Lai",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--110888",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề rõ ràng đề cập \"phí sử dụng đường bộ\" và \"trạm thu phí\", là dấu hiệu tích cực mạnh mẽ cho giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "110943",
+      "title": "Thông tư số 02/2016/TT-BTC Hướng dẫn hỗ trợ lãi suất đổi với tổ chức, cá nhân vay vốn tại tổ chức tín dụng để thực hiện các dự án đầu tư phương tỉện, đầu tư kết cấu hạ tầng phục vụ vận tải hành khách công cộng bằng xe buýt theo Quyết định số 13/2015/QĐ-TTg ngày 05 tháng 5 năm 2015 của Thủ tướng Chính phủ về cơ chế chính sách khuyến khích phát triển vận tải hành khách công cộng bằng xe buýt",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--110943",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề đề cập \"xe buýt\" và \"vận tải hành khách công cộng bằng xe buýt\", đây là hình thức giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "111413",
+      "title": "Văn bản hợp nhất số 06/VBHN-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng đường bộ đường cao tốc thành phố Hồ Chí Minh – Trung Lương",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--111413",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm \"phí sử dụng đường bộ\" và \"đường cao tốc\", là các dấu hiệu trực tiếp liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "111475",
+      "title": "Văn bản hợp nhất số 15/VBHN-BTC Quy định chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy đăng ký và biển số phương tiện giao thông cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--111475",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc \"giao thông cơ giới đường bộ\" và \"biển số phương tiện\", rõ ràng thuộc domain này.",
+      "is_traffic": true
+    },
+    {
+      "id": "11245",
+      "title": "Thông tư số 22-BYT/TT Quy định về tuổi của người lái xe cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--11245",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"lái xe cơ giới đường bộ\" và quy định về tuổi người lái xe, thuộc phạm vi giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "11645",
+      "title": "Thông tư liên tịch số 100/2008/TTLT-BTC-BGTVT-BCA-BTP-NHNNVN Hướng dẫn thi hành Khoản 2 Điều 47 Nghị định số 146/2007/NĐ-CP ngày 14/9/2000 quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--11645",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"giao thông đường bộ\", là dấu hiệu tích cực mạnh mẽ.",
+      "is_traffic": true
+    },
+    {
+      "id": "118541",
+      "title": "Thông tư số 235/2016/TT-BTC Quy định về giá thử nghiệm khí thải đốì với phương tiện giao thông cơ giới đường bộ và thử nghiệm mức tiêu thụ nhiên liệu đối với xe ô tô con từ 07 cho ngồi trở xuống sản xuất, lẳp ráp và nhập khẩu.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--118541",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ \"phương tiện giao thông cơ giới đường bộ\" và \"xe ô tô con\", thuộc nhóm dấu hiệu tích cực, xác định nội dung đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "118545",
+      "title": "Thông tư số 239/2016/TT-BTC Quy định về giá dịch vụ thử nghiệm, kiếm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với các loại phương tiện giao thông cơ giới đưòng bộ, xe máy chuyên dùng, linh kiện trong sản xuất, lẳp ráp và nhập khấu",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--118545",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"phương tiện giao thông cơ giới đường bộ\" và \"xe máy chuyên dùng\", thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "11872",
+      "title": "Quyết định số 938/QĐ-TTg Về việc sửa đổi, bổ sung một số điều của Quyết định số 1621/QĐ-TTG ngày 29/11/2007 của Thủ tướng Chính phủ về một số cơ chế, chính sách thí điểm đầu tư Dự án đường ô tô cao tốc Hà Nội – Hải Phòng",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--11872",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm \"đường ô tô cao tốc\", là dấu hiệu trực tiếp của lĩnh vực giao thông đường bộ, thuộc nhóm dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "118731",
+      "title": "Thông tư số 201/2016/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch, lệ phí cấp giấy phép lái xe trong Công an nhân dân",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--118731",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa từ khóa \"sát hạch\" và \"giấy phép lái xe\", là dấu hiệu tích cực mạnh mẽ liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "118973",
+      "title": "Thông tư số 158/2016/TT-BTC Quy định việc quản lý, sử dụng và khai thác Phần mềm Tổng hợp số liệu kiểm kê tài sản kết cấu hạ tầng giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--118973",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"giao thông đường bộ\" và \"kết cấu hạ tầng giao thông đường bộ\".",
+      "is_traffic": true
+    },
+    {
+      "id": "11966",
+      "title": "Quyết định số 56/2009/QĐ-TTg Về việc sửa đổi, bổ sung một số điều của Quyết định số 13/2009/QĐ-TTg ngày 21 tháng 01 năm 2009 của Thủ tướng Chính phủ về việc sử dụng vốn tín dụng đầu tư phát triển của Nhà nước để tiếp tục thực hiện các chương trình kiên cố hóa kênh mương, phát triển đường giao thông nông thôn, cơ sở hạ tầng nuôi trồng thủy sản và cơ sở hạ tầng làng nghề ở nông thôn giai đoạn 2009 - 2015",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--11966",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa 'đường giao thông nông thôn', thuộc về phát triển hạ tầng đường bộ, liên quan trực tiếp đến domain.",
+      "is_traffic": true
+    },
+    {
+      "id": "12098",
+      "title": "Thông tư số 06/2009/TT-BCA(C11) Quy định việc cấp, thu hồi đăng ký, biển số các loại phương tiện giao thông cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--12098",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"phương tiện giao thông cơ giới đường bộ\", trực tiếp chỉ rõ nội dung thuộc lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "122401",
+      "title": "Thông tư liên tịch số 02/2016/TTLT-BCA-BQP-BGTVT Hướng dẫn thực hiện đào tạo, bồi dưỡng cán bộ làm công tác phòng, chống khủng bố",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--122401",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Bộ Giao thông vận tải là cơ quan ban hành, nên công tác phòng, chống khủng bố chắc chắn bao gồm các biện pháp an ninh liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "125142",
+      "title": "Thông tư số 77/2011/TT-BCA Quy định quy chuẩn quốc gia về dự trữ nhà nước đối với phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng do Bộ Công an quản lý",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--125142",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"phương tiện giao thông cơ giới đường bộ\", một dấu hiệu tích cực mạnh mẽ.",
+      "is_traffic": true
+    },
+    {
+      "id": "12828",
+      "title": "Thông tư liên tịch số 10/2008/TTLT-BTC-BGTVT Thông tư hướng dẫn chế độ quản lý, thanh toán, quyết toán kinh phí sự nghiệp kinh tế quản lý, bảo trì đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--12828",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'quản lý, bảo trì đường bộ', thuộc nhóm dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "12858",
+      "title": "Quyết định số 01/2008/QĐ-BGTVT Ban hành Quy định tạm thời về việc sử dụng cọc nhựa dùng để phân làn xe và cảnh báo an toàn giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--12858",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\", \"phân làn xe\" và \"cảnh báo an toàn giao thông đường bộ\", khẳng định nội dung thuộc lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "129103",
+      "title": "Thông tư số 50/2018/TT-BTC Ban hành các chỉ tiêu thông tin, mẫu chứng từ khai báo khi làm thủ tục  xuất cảnh, nhập cảnh, quá cảnh đối với phương tiện qua cửa khẩu đường không, đường biển, đường sắt, đường bộ và cửa khẩu đường sông theo quy định tại Nghị định số 59 /2018/NĐ-CP ngày  20 tháng 4 năm 2018 của Chính phủ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--129103",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề liệt kê “đường bộ” cùng các loại hình giao thông khác. Áp dụng nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "129226",
+      "title": "Thông tư số 28/2018/TT-BGTVT Quy định về kết nối tín hiệu đèn giao thông đường bộ với tín hiệu đèn báo hiệu trên đường bộ tại đường ngang, cung cấp thông tin hỗ trợ cảnh giới tại các điểm giao cắt giữa đường bộ và đường sắt",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--129226",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"đường bộ\" và \"đèn giao thông đường bộ\", kết hợp với nguyên tắc bao trùm, dù có yếu tố đường sắt, vẫn thuộc domain GIAO THÔNG ĐƯỜNG BỘ.",
+      "is_traffic": true
+    },
+    {
+      "id": "12997",
+      "title": "Thông tư liên tịch số 31/2007/TTLT/BCA-BGTVT Hướng dẫn về việc xóa sổ đăng ký, thu hồi biển số của phương tiện giao thông cơ giới đường bộ hết niên hạn sử dụng",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--12997",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ “phương tiện giao thông cơ giới đường bộ”, là dấu hiệu trực tiếp và rõ ràng thuộc lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "13388",
+      "title": "Quyết định số 140/2007/QĐ-BQP Về việc thành lập Trung tâm sát hạch lái xe cơ giới đường bộ thuộc Trường Trung cấp nghề số 10 - Bộ Quốc phòng",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--13388",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ trọng tâm \"sát hạch lái xe cơ giới đường bộ\", là dấu hiệu tích cực trực tiếp liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "136158",
+      "title": "Thông tư số 120/2018/TT-BTC Quy định mức lợi nhuận trên vốn chủ sở hữu của nhà đầu tư, thanh toán phần vốn đầu tư của Nhà nước tham gia thực hiện dự án và quyết toán công trình dự án hoàn thành theo hình thức đốỉ tác công tư thuộc Dự án xây dựng một số đoạn đường bộ cao tốc trên tuyến Bắc - Nam phía Đông giai đoạn 2017-2020",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--136158",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm \"đường bộ cao tốc\", chỉ định dự án xây dựng thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "13749",
+      "title": "Quyết định số 123/2007/QĐ-TTg Phê duyệt Quy hoạch tổng thể bảo tồn, tu bổ, tôn tạo và phát huy giá trị di tích lịch sử đường Hồ Chí Minh - Đông Trường Sơn",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--13749",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa từ 'đường' và 'đường Hồ Chí Minh', là một tuyến đường dù mang tính lịch sử. Có bóng dáng giao thông, cần giữ lại theo nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "13852",
+      "title": "Quyết định số 112/2007/QĐ-BQP Về việc thành lập Trung tâm sát hạch lái xe thuộc Trường Cao đẳng nghề số 3 - Bộ Quốc phòng",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--13852",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"sát hạch lái xe\", là dấu hiệu rất mạnh về việc đào tạo và cấp phép lái xe cơ giới, thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "14095",
+      "title": "Chỉ thị số 07/2007/CT-BGTVT Về việc tiếp tục nâng cao chất lượng công tác đào tạo, sát hạch và cấp giấy phép lái xe",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--14095",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa 'sát hạch' và 'giấy phép lái xe', là dấu hiệu mạnh mẽ thuộc domain giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "141158",
+      "title": "Thông tư số 04/2020/TT-BCT Quy định về đấu giá hạn ngạch thuế quan nhập khẩu ô tô đã qua sử dụng theo Hiệp định Đối tác toàn diện và Tiến bộ Xuyên Thái Bình Dương",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--141158",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa từ khóa \"ô tô\" là phương tiện giao thông đường bộ, liên quan đối tượng này.",
+      "is_traffic": true
+    },
+    {
+      "id": "143482",
+      "title": "Quyết định số 19/2020/QĐ-TTg Về việc thu phí dịch vụ sử dụng đường bộ theo hình thức điện tử không dừng",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--143482",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"đường bộ\" và \"thu phí dịch vụ sử dụng đường bộ\", thuộc nhóm dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "144807",
+      "title": "Thông tư số 65/2020/TT-BCA Quy định nhiệm vụ, quyền hạn, hình thức, nội dung và quy trình tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông\nđường bộ của Cảnh sát giao thông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--144807",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"Cảnh sát giao thông\", là các từ khóa mạnh thuộc domain.",
+      "is_traffic": true
+    },
+    {
+      "id": "144830",
+      "title": "Thông tư số 49/2016/TT-BYT Quy định về tổ chức và hoạt động cấp cứu tai nạn giao thông trên đường bộ cao tốc",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--144830",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"đường bộ cao tốc\", chỉ rõ địa điểm xảy ra tai nạn giao thông, liên quan trực tiếp.",
+      "is_traffic": true
+    },
+    {
+      "id": "144882",
+      "title": "Thông tư số 60/2017/TT-BTC Hướng dẫn chế độ quản lý, sử dụng, thanh toán và quyết toán kinh phí quản lý, bảo trì đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--144882",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa trực tiếp cụm từ \"đường bộ\", chỉ rõ nội dung liên quan đến quản lý, bảo trì đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "146222",
+      "title": "Thông tư số 148/2020/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 57/2015/TT-BCA ngày 26/10/2015 của Bộ trưởng Bộ Công an hướng dẫn về trang bị phương tiện phòng cháy và chữa cháy đối với phương tiện giao thông cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--146222",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"phương tiện giao thông cơ giới đường bộ\", cho thấy nội dung liên quan đến lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "147496",
+      "title": "Thông tư số 37/2020/TT-BGTVT Ban hành 02 Quy chuẩn kỹ thuật quốc gia về thiết bị phục vụ quản lý đào tạo lái xe",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--147496",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề đề cập \"đào tạo lái xe\", trực tiếp liên quan cấp phép lái phương tiện cơ giới đường bộ, là yếu tố cốt lõi giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "14908",
+      "title": "Quyết định số 1987/QĐ-BTM Về việc đính chính Thông tư liên tịch số 12/2006/TTLT-BTM-BNV-BTC ngày 02/10/2006 hướng dẫn thực hiện chế độ phụ cấp ưu đãi nghề đối với công chức quản lý thị trường và chế độ phụ cấp trách nhiệm công việc đối với công chức lái tầu, lái xe, lái ca nô trực tiếp phục vụ công tác tại các đội quản lý thị trường",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--14908",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề nhắc đến công chức \"lái xe\" cùng \"lái tầu\", \"lái ca nô\". Sự hiện diện của \"lái xe\" cho thấy nội dung liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "14915",
+      "title": "Thông tư liên tịch số 12/2006/TTLT-BTM-BNV-BTC Hướng dẫn thực hiện chế độ phụ cấp  ưu đãi theo nghề đối với công chức\nquản lý thị trường vµ chế độ phụ cấp trách nhiệm công việc đối với công chức\nlái tầu, lái xe, lái ca nô trực tiếp phục vụ công tác tại các đội quản lý thị trường",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--14915",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề có từ \"lái xe\" liên quan đường bộ, dù có yếu tố đường thủy, áp dụng nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "149689",
+      "title": "Thông tư số 04/2021/TT-BGTVT Quy định về điều kiện cơ sở đào tạo, nghiên cứu được tổ chức thực hiện các chương trình bồi dưỡng viên chức ngành Giao thông vận tải",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--149689",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Thông tư quy định bồi dưỡng viên chức ngành Giao thông vận tải, bao gồm viên chức làm việc trong lĩnh vực đường bộ. Do đó, có khả năng liên quan.",
+      "is_traffic": true
+    },
+    {
+      "id": "151447",
+      "title": "Thông tư số 34/2021/TT-BGTVT Quy định về quản lý, hoạt động của Trạm kiểm tra tải trọng xe trên đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--151447",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ cụm từ \"Trạm kiểm tra tải trọng xe\" và \"đường bộ\", thuộc nhóm dấu hiệu tích cực của giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "15227",
+      "title": "Quyết định số 44/2006/QĐ-BTC Ban hành Tờ khai hải quan dùng cho phương tiện vận tải xuất nhập cảnh qua cửa khẩu biên giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--15227",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ 'biên giới đường bộ' liên quan đến phương tiện vận tải, trực tiếp khẳng định liên quan giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "153533",
+      "title": "Thông tư số 41/2021/TT-BGTVT Sửa đổi, bổ sung một số điều của Thông tư số 37/2018/TT-BGTVT ngày 07 tháng 6 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành khai thác và bảo trì công trình đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--153533",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'công trình đường bộ', thuộc nhóm dấu hiệu tích cực, liên quan rõ ràng đến domain giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "153534",
+      "title": "Thông tư số 40/2021/TT-BGTVT Ban hành định mức kinh tế - kỹ thuật công tác thu tiền dịch vụ \nsử dụng đường bộ đối với các dự án xây dựng đường bộ \ndo Bộ Giao thông vận tải quản lý",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--153534",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng các cụm từ \"đường bộ\", \"thu tiền dịch vụ sử dụng đường bộ\" và \"xây dựng đường bộ\", khẳng định nội dung thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "153893",
+      "title": "Thông tư số 15/2022/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 43/2017/TT-BCA ngày 20 tháng 10 năm 2017 của Bộ trưởng Bộ Công an quy định về trình tự cấp, thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự và sát hạch, cấp Chứng chỉ nghiệp vụ bảo vệ; Thông tư số 45/2017/TT-BCA ngày 20 tháng 10 năm 2017 của Bộ trưởng Bộ Công an quy định về trình tự đăng ký mẫu con dấu, thu hồi và hủy con dấu, hủy giá trị sử dụng con dấu, kiểm tra việc quản lý và sử dụng con dấu; Thông tư số 58/2020/TT-BCA ngày 16 tháng 6 năm 2020 của Bộ trưởng Bộ Công an quy định quy trình cấp, thu hồi đăng ký, biển số phương tiện giao thông cơ giới đường bộ; Thông tư số 65/2020/TT-BCA ngày 19 tháng 6 năm 2020 của Bộ trưởng Bộ Công an quy định nhiệm vụ, quyền hạn, hình thức, nội dung và quy trình tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ của Cảnh sát giao thông; Thông tư số 68/2020/TT-BCA ngày 19 tháng 6 năm 2020 của Bộ trưởng Bộ Công an quy định về quy trình tuần tra, kiểm soát và xử lý vi phạm hành chính của Cảnh sát đường thủy; Thông tư số 73/2021/TT-BCA ngày 29 tháng 6 năm 2021 của Bộ trưởng Bộ Công an quy định về mẫu hộ chiếu, giấy thông hành và các biểu mẫu liên quan",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--153893",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề rõ ràng đề cập đến quy trình cấp biển số phương tiện giao thông cơ giới đường bộ và xử lý vi phạm giao thông đường bộ, dù có đề cập lĩnh vực khác.",
+      "is_traffic": true
+    },
+    {
+      "id": "15812",
+      "title": "Quyết định số 1953/2004/QĐ-BTM Về việc điều chỉnh, bổ sung Quy hoạch hệ thống cửa hàng xăng dầu dọc tuyến đường Hồ Chí Minh giai đoạn I ban hành kèm theo Quyết địnhsố 0278/2002/QĐ-BTM ngày 19/3/2002 của Bộ trưởng Bộ Thương mại",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--15812",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề đề cập \"cửa hàng xăng dầu dọc tuyến đường Hồ Chí Minh\", liên quan trực tiếp đến hạ tầng và dịch vụ phục vụ giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "159081",
+      "title": "Quyết định số 17/2022/QĐ-TTg Phân cấp thực hiện các dự án, dự án thành phần đầu tư các đoạn tuyến đường bộ cao tốc theo hình thức đầu tư công thuộc Chương trình phục hồi và phát triển kinh tế - xã hội",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--159081",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"đường bộ cao tốc\" là dấu hiệu tích cực mạnh mẽ, trực tiếp thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "159096",
+      "title": "Nghị quyết số 58/2022/QH15 Về chủ trương đầu tư Dự án đầu tư xây dựng đường bộ cao tốc Khánh Hòa - Buôn Ma Thuột giai đoạn 1",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--159096",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa trọng tâm \"đường bộ cao tốc\", là dấu hiệu rõ ràng thuộc domain GIAO THÔNG ĐƯỜNG BỘ.",
+      "is_traffic": true
+    },
+    {
+      "id": "159098",
+      "title": "Nghị quyết số 59/2022/QH15 Về chủ trương đầu tư Dự án đầu tư xây dựng đường bộ cao tốc Biên Hòa - Vũng Tàu giai đoạn 1",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--159098",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"đường bộ cao tốc\", là dấu hiệu tích cực mạnh mẽ cho thấy nội dung thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "159104",
+      "title": "Nghị quyết số 60/2022/QH15 Về chủ trương đầu tư Dự án đầu tư xây dựng đường bộ cao tốc Châu Đốc - Cần Thơ - Sóc Trăng giai đoạn 1",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--159104",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ trọng tâm \"đường bộ cao tốc\", thuộc nhóm dấu hiệu tích cực mạnh, liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "16215",
+      "title": "Thông tư số 05/2006/TT-BCA-C11 Hướng dẫn thi hành Quyết định số 14/2000/QĐ-TTg ngày 27/01/2000 của Thủ tướng Chính phủ quy định các đoàn trong nước và khách nước ngoài đến Việt Nam  có xe Cảnh sát giao thông dẫn đường",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--16215",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"Cảnh sát giao thông\" và \"xe Cảnh sát giao thông\", là dấu hiệu mạnh mẽ liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "163057",
+      "title": "Thông tư số 32/2023/TT-BCA Quy định nhiệm vụ, quyền hạn, hình thức, nội dung và quy trình tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ của Cảnh sát giao thông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--163057",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"Cảnh sát giao thông\", là dấu hiệu tích cực mạnh.",
+      "is_traffic": true
+    },
+    {
+      "id": "165031",
+      "title": "Nghị định số 90/2023/NĐ-CP Quy định mức thu, chế độ thu, nộp, miễn, quản lý và sử dụng phí đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--165031",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"phí đường bộ\", là dấu hiệu tích cực trực tiếp liên quan đến GIAO THÔNG ĐƯỜNG BỘ.",
+      "is_traffic": true
+    },
+    {
+      "id": "166420",
+      "title": "Thông tư số 55/2023/TT-BGTVT Hướng dẫn một số nội dung dự án đầu tư theo phương thức đối tác công tư, loại hợp đồng kinh doanh - quản lý đường bộ cao tốc",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--166420",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa \"đường bộ cao tốc\" là dấu hiệu tích cực trực tiếp, xác nhận nội dung thuộc Giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "166777",
+      "title": "Nghị định số 44/2024/NĐ-CP Quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--166777",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"giao thông đường bộ\", là dấu hiệu tích cực rõ ràng.",
+      "is_traffic": true
+    },
+    {
+      "id": "166844",
+      "title": "Thông tư số 11/2024/TT-BGTVT Quy định về giá dịch vụ lập hồ sơ phương tiện đối với xe cơ giới được miễn kiểm định lần đầu và dịch vụ in lại Giấy chứng nhận kiểm định và Tem kiểm định đối với xe cơ giới",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--166844",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa \"xe cơ giới\" và \"kiểm định\", là dấu hiệu mạnh mẽ liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "166909",
+      "title": "Thông tư số 84/2014/TT-BGTVT Quy định về tổ chức giao thông và đặt biển báo hiệu hạn chế trọng lượng xe qua cầu đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--166909",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa trọng tâm \"đường bộ\" liên quan đến cầu đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "167008",
+      "title": "Thông tư số 40/2020/TT-BGTVT Quy định việc đấu thầu, đặt hàng cung cấp dịch vụ sự nghiệp công vận hành khai thác bến phà đường bộ do Bộ Giao thông vận tải quản lý sử dụng nguồn kinh phí chi thường xuyên của ngân sách trung ương",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--167008",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ rõ ràng \"bến phà đường bộ\", trực tiếp chỉ định lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "169923",
+      "title": "Thông tư số 26/2024/TT-BCA Quy định thống kê, tổng hợp, xây dựng, quản lý, khai thác, sử dụng Cơ sở dữ liệu về tai nạn giao thông đường bộ, tai nạn giao thông đường sắt, tai nạn giao thông đường thủy nội địa",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--169923",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng yếu tố \"đường bộ\" cùng các lĩnh vực khác, áp dụng nguyên tắc bao trùm để đảm bảo không bỏ sót dữ liệu liên quan.",
+      "is_traffic": true
+    },
+    {
+      "id": "169924",
+      "title": "Thông tư số 28/2024/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 32/2023/TT-BCA ngày 01 tháng 8 năm 2023 của Bộ trưởng Bộ Công an quy định nhiệm vụ, quyền hạn, hình thức, nội dung và quy trình tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ của Cảnh sát giao thông; Thông tư số 24/2023/TT-BCA ngày 01 tháng 7 năm 2023 của Bộ trưởng Bộ Công an quy định về cấp, thu hồi đăng ký, biển số xe cơ giới",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--169924",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\", \"Cảnh sát giao thông\", \"xe cơ giới\", \"đăng ký, biển số xe\".",
+      "is_traffic": true
+    },
+    {
+      "id": "170620",
+      "title": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--170620",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"giao thông đường bộ\", thuộc nhóm dấu hiệu tích cực mạnh nhất.",
+      "is_traffic": true
+    },
+    {
+      "id": "171712",
+      "title": "Thông tư 36/2024/TT-BYT quy định về tiêu chuẩn sức khỏe, việc khám sức khỏe đối với người lái xe, người điều khiển xe máy chuyên dùng; việc khám sức khỏe định kỳ đối với người hành nghề lái xe ô tô; cơ sở dữ liệu về sức khỏe của người lái xe, người điều khiển xe máy chuyên dùng do Bộ trưởng Bộ Y tế ban hành",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--171712",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa cụm từ \"lái xe ô tô\", \"người lái xe\" và \"xe máy chuyên dùng\", liên quan trực tiếp đến đối tượng tham gia giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "172311",
+      "title": "Thông tư số 68/2024/TT-BQP quy định về đào tạo, sát hạch, cấp Giấy phép lái xe quân sự; bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng thuộc phạm vi quản lý của Bộ Quốc phòng",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--172311",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng 'giao thông đường bộ', 'sát hạch', 'Giấy phép lái xe' là các dấu hiệu tích cực mạnh mẽ, bất kể phạm vi quân sự.",
+      "is_traffic": true
+    },
+    {
+      "id": "172315",
+      "title": "Thông tư số 71/2024/TT-BQP quy định về kiểm soát quân sự, kiểm tra xe quân sự tham gia giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--172315",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"giao thông đường bộ\" và \"xe quân sự tham gia giao thông đường bộ\", thể hiện rõ sự liên quan.",
+      "is_traffic": true
+    },
+    {
+      "id": "172475",
+      "title": "Luật Đường bộ số 35/2024/QH15",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--172475",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa trọng tâm \"Đường bộ\", trực tiếp chỉ định lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "172771",
+      "title": "Nghị định số 119/2024/NĐ-CP Quy định về thanh toán điện tử giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--172771",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ trọng tâm 'giao thông đường bộ', trực tiếp chỉ định nội dung thuộc lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "172772",
+      "title": "Nghị định số 130/2024/NĐ-CP Quy định về thu phí sử dụng đường bộ cao tốc đối với phương tiện lưu thông trên tuyến đường bộ cao tốc thuộc sở hữu toàn dân do nhà nước đại diện chủ sở hữu và trực tiếp quản lý, khai thác",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--172772",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề rõ ràng đề cập 'thu phí sử dụng đường bộ cao tốc' và 'phương tiện lưu thông', thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "17289",
+      "title": "Quyết định số 73/2005/QĐ-BTC Về việc quy định tạm thời không thu phí sử dụng đường bộ đối với xe máy trên quốc lộ 1A tại trạm thu phí Diên Phú (Km 1453) và trạm thu phí Cam Thịnh (Km 1517+600)",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--17289",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ các yếu tố \"đường bộ\", \"xe máy\", \"quốc lộ\" và \"trạm thu phí\", xác định trực tiếp nội dung giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173049",
+      "title": "Thông tư số 32/2024/TT-BGTVT Quy định về quản lý giá dịch vụ sử dụng đường bộ của các dự án đầu tư xây dựng đường bộ để kinh doanh, do trung ương quản lý",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173049",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng từ khóa \"đường bộ\" và quản lý giá dịch vụ sử dụng đường bộ, không có yếu tố ngành khác.",
+      "is_traffic": true
+    },
+    {
+      "id": "173056",
+      "title": "Thông tư số 34/2024/TT-BGTVT Quy định về hoạt động trạm thu phí đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173056",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"trạm thu phí đường bộ\", là dấu hiệu tích cực mạnh mẽ thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173068",
+      "title": "Thông tư số 38/2024/TT-BGTVT Quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173068",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"xe cơ giới\" và \"trên đường bộ\", các yếu tố cốt lõi của giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173086",
+      "title": "Thông tư số 36/2024/TT-BGTVT Quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và hoạt động của bến xe, bãi đỗ xe, trạm dừng nghỉ, điểm dừng xe trên đường bộ; quy định trình tự, thủ tục đưa bến xe, trạm dừng nghỉ vào khai thác",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173086",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng các từ khóa \"xe ô tô\", \"đường bộ\", \"bến xe\", chỉ đích danh hoạt động vận tải đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173115",
+      "title": "Thông tư số 41/2024/TT-BGTVT Quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173115",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"kết cấu hạ tầng đường bộ\", là dấu hiệu tích cực trực tiếp, xác định nội dung thuộc giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173116",
+      "title": "Thông tư số 45/2024/TT-BGTVT Quy định về cấp mới, cấp lại, tạm đình chỉ, thu hồi chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173116",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'giao thông đường bộ' và 'đăng kiểm viên', thuộc dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "173117",
+      "title": "Thông tư số 46/2024/TT-BGTVT Quy định trình tự, thủ tục cấp mới, cấp lại, tạm đình chỉ hoạt động, thu hồi giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới của cơ sở đăng kiểm xe cơ giới, cơ sở kiểm định khí thải xe mô tô, xe gắn máy",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173117",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa các từ khóa 'xe cơ giới', 'đăng kiểm xe', 'xe mô tô, xe gắn máy' liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173119",
+      "title": "Thông tư số 49/2024/TT-BGTVT Ban hành Quy chuẩn kỹ thuật quốc gia về Trung tâm sát hạch lái xe cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173119",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa trọng tâm 'sát hạch lái xe cơ giới đường bộ', trực tiếp chỉ định lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173121",
+      "title": "Thông tư số 51/2024/TT-BGTVT Ban hành Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173121",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'báo hiệu đường bộ', là dấu hiệu tích cực mạnh mẽ liên quan đến GIAO THÔNG ĐƯỜNG BỘ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173165",
+      "title": "Thông tư số 52/2024/TT-BGTVT Quy định về yêu cầu kỹ thuật đối với xe cơ giới, xe máy chuyên dùng thuộc đối tượng nghiên cứu phát triển có nhu cầu tham gia giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173165",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa các cụm từ trọng tâm \"xe cơ giới\" và \"giao thông đường bộ\", trực tiếp liên quan đến lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "173166",
+      "title": "Thông tư số 53/2024/TT-BGTVT Quy định về phân loại phương tiện giao thông đường bộ và dấu hiệu nhận biết xe cơ giới sử dụng năng lượng sạch, năng lượng xanh, thân thiện môi trường",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173166",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"giao thông đường bộ\" và \"xe cơ giới\", là các dấu hiệu tích cực mạnh mẽ cho lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "173215",
+      "title": "Thông tư số 56/2024/TT-BGTVT Ban hành Quy chuẩn kỹ thuật quốc gia về bến xe khách, Quy chuẩn kỹ thuật quốc gia về bến xe hàng, Quy chuẩn kỹ thuật quốc gia về trạm dừng nghỉ, Quy chuẩn kỹ thuật quốc gia về công trình kiểm soát tải trọng xe trên đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173215",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc “đường bộ”, “bến xe khách”, “trạm dừng nghỉ” và “kiểm soát tải trọng xe”, đều thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173217",
+      "title": "Thông tư số 57/2024/TT-BGTVT Ban hành Quy chuẩn kỹ thuật quốc gia về đường bộ cao tốc",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173217",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"đường bộ cao tốc\", là dấu hiệu mạnh mẽ thuộc domain giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173412",
+      "title": "Nghị định số 158/2024/NĐ-CP Quy định về hoạt động vận tải đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173412",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"vận tải đường bộ\", khẳng định rõ ràng thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173738",
+      "title": "Nghị định số 160/2024/NĐ-CP Quy định về hoạt động đào tạo và sát hạch lái xe",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173738",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ 'đào tạo và sát hạch lái xe', là dấu hiệu tích cực mạnh mẽ của giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173895",
+      "title": "Nghị định số 165/2024/NĐ-CP Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173895",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"Luật Đường bộ\" và \"an toàn giao thông đường bộ\", là dấu hiệu rõ ràng thuộc domain GIAO THÔNG ĐƯỜNG BỘ.",
+      "is_traffic": true
+    },
+    {
+      "id": "173920",
+      "title": "Nghị định số 168/2024/NĐ-CP Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--173920",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"giấy phép lái xe\", là dấu hiệu tích cực mạnh mẽ.",
+      "is_traffic": true
+    },
+    {
+      "id": "174157",
+      "title": "Thông tư số 40/2024/TT-BGTVT Quy định về công tác phòng, chống, khắc phục hậu quả  thiên tai trong lĩnh vực đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174157",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ cụm từ \"lĩnh vực đường bộ\", khẳng định nội dung liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "174456",
+      "title": "Thông tư số 67/2024/TT-BGTVT Ban hành định mức dự toán đào hót đất, đá sụt lở trong công tác khắc phục hậu quả thiên tai, đảm bảo giao thông trên đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174456",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa trực tiếp cụm từ \"đường bộ\" và \"đảm bảo giao thông\", xác nhận thuộc domain.",
+      "is_traffic": true
+    },
+    {
+      "id": "174886",
+      "title": "Thông tư số 62/2024/TT-BCA Ban hành Quy chuẩn kỹ thuật quốc gia về “hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ”, Quy chuẩn kỹ thuật quốc gia về “thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe” và Quy chuẩn kỹ thuật quốc gia về “trung tâm chỉ huy giao thông”",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174886",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"thiết bị giám sát hành trình, người lái xe\", là dấu hiệu mạnh về nội dung đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "174888",
+      "title": "Thông tư số 65/2024/TT-BCA Quy định kiểm tra kiến thức pháp luật về trật tự, an toàn\n giao thông đường bộ để được phục hồi điểm giấy phép lái xe",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174888",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"giao thông đường bộ\" và \"giấy phép lái xe\", các dấu hiệu tích cực trực tiếp.",
+      "is_traffic": true
+    },
+    {
+      "id": "174890",
+      "title": "Thông tư số 69/2024/TT-BCA Quy định về chỉ huy, điều khiển \ngiao thông đường bộ của Cảnh sát giao thông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174890",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"Cảnh sát giao thông\", là các dấu hiệu tích cực mạnh mẽ.",
+      "is_traffic": true
+    },
+    {
+      "id": "174892",
+      "title": "Thông tư số 72/2024/TT-BCA Quy định quy trình điều tra, giải quyết tai nạn giao thông\nđường bộ của Cảnh sát giao thông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174892",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"đường bộ\" và \"Cảnh sát giao thông\", là các dấu hiệu rõ ràng thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "174900",
+      "title": "Thông tư số 83/2024/TT-BCA Quy định về xây dựng, quản lý, vận hành, khai thác và sử dụng \nhệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174900",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"an toàn giao thông đường bộ\", thuộc nhóm dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "174932",
+      "title": "Thông tư số 73/2024/TT-BCA Quy định công tác tuần tra, kiểm soát, xử lý vi phạm pháp luật\n về trật tự, an toàn giao thông đường bộ của Cảnh sát giao thông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174932",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ trọng tâm \"giao thông đường bộ\" và \"Cảnh sát giao thông\", xác định rõ lĩnh vực.",
+      "is_traffic": true
+    },
+    {
+      "id": "174935",
+      "title": "Thông tư số 71/2024/TT-BCA Quy định quản lý, vận hành, sử dụng hệ thống quản lý dữ liệu \nthiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174935",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Thiết bị giám sát hành trình và ghi hình người lái xe thường liên quan đến quy định về vận tải, an toàn giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "174961",
+      "title": "Nghị định số 151/2024/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Trật tự, \nan toàn giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174961",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp đề cập \"giao thông đường bộ\", thuộc nhóm dấu hiệu tích cực xác suất TRUE rất cao.",
+      "is_traffic": true
+    },
+    {
+      "id": "174970",
+      "title": "Nghị định số 176/2024/NĐ-CP Quy định quản lý, sử dụng kinh phí thu từ xử phạt vi phạm \nhành chính về trật tự, an toàn giao thông đường bộ và đấu giá \nbiển số xe sau khi nộp vào ngân sách nhà nước",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--174970",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"giao thông đường bộ\" và \"biển số xe\", đây là các dấu hiệu tích cực mạnh mẽ khẳng định thuộc lĩnh vực.",
+      "is_traffic": true
+    },
+    {
+      "id": "175618",
+      "title": "Thông tư số 12/2025/TT-BCA Quy định về sát hạch, cấp giấy phép lái xe;\ncấp, sử dụng giấy phép lái xe quốc tế",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--175618",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"sát hạch, cấp giấy phép lái xe\", đây là dấu hiệu tích cực mạnh mẽ cho giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "175620",
+      "title": "Thông tư số 13/2025/TT-BCA Sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, \nan toàn giao thông đường bộ, đường sắt và đường thủy nội địa",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--175620",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"giao thông đường bộ\" rõ ràng, dù có bao gồm lĩnh vực khác. Áp dụng nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "177104",
+      "title": "Thông tư số 34/2018/TT-BCA Quy định trình tự điều tra, giải quyết tai nạn giao thông đường sắt của lực lượng Cảnh sát giao thông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--177104",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa yếu tố 'đường sắt' và từ khóa 'Cảnh sát giao thông' (liên quan đường bộ), áp dụng nguyên tắc bao trùm để không bỏ sót.",
+      "is_traffic": true
+    },
+    {
+      "id": "177773",
+      "title": "Nghị quyết số 191/2025/QH15 Về chủ trương đầu tư bổ sung vốn điều lệ giai đoạn 2024 - 2026 của Công ty mẹ - Tổng công ty Đầu tư phát triển đường cao tốc Việt Nam;  một số cơ chế, giải pháp cấp bách cần thiết để triển khai dự án cải tạo,  sửa chữa, nâng cấp, xây mới Trụ sở làm việc cơ quan Chủ tịch nước",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--177773",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa cụm từ \"đường cao tốc\" và liên quan Tổng công ty Đầu tư phát triển đường cao tốc Việt Nam, thuộc giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "178682",
+      "title": "Thông tư số 06/2025/TT-BNNMT Ban hành Quy chuẩn kỹ thuật quốc gia về khí thải xe ô tô tham gia giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--178682",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"giao thông đường bộ\" và \"xe ô tô\", là dấu hiệu tích cực mạnh mẽ.",
+      "is_traffic": true
+    },
+    {
+      "id": "179198",
+      "title": "Thông tư số 12/2025/TT-BXD Quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích trên đường bộ; hàng siêu trường, siêu trọng, vận chuyển hàng siêu trường, siêu trọng; xếp hàng hóa trên phương tiện giao thông đường bộ; cấp giấy phép lưu hành cho xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--179198",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề lặp lại từ khóa \"đường bộ\" và các quy định về tải trọng, lưu hành xe trên đường bộ, trực tiếp liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "179199",
+      "title": "Thông tư số 13/2025/TT-BXD Quy định đặc điểm kinh tế - kỹ thuật của dịch vụ vận tải hành khách tuyến cố định bằng đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--179199",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'vận tải hành khách bằng đường bộ', khẳng định nội dung thuộc giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "179201",
+      "title": "Thông tư số 14/2025/TT-BXD Quy định về đào tạo lái xe; bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--179201",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"đào tạo lái xe\" và \"giao thông đường bộ\", thuộc nhóm dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "18044",
+      "title": "Quyết định số 43/2005/QĐ-BTC Về việc quy định mức thu, chế độ thu, nộp, quản lý và sử dụng \nphí qua hầm đường bộ Hải Vân, quốc lộ 1A",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--18044",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề nhắc đến \"hầm đường bộ\" và \"quốc lộ 1A\", là yếu tố trọng tâm của giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "18099",
+      "title": "Quyết định số 32/2005/QĐ-BGTVT Ban hành quy định về xếp loại đường để xác định cước vận tải đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--18099",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"vận tải đường bộ\", là dấu hiệu tích cực mạnh mẽ, liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "181378",
+      "title": "Thông tư số 60/2018/TT-BGTVT Sửa đổi, bổ sung một số điều của Thông tư số 35/2016/TT-BGTVT ngày 15 tháng 11 năm 2016 của bộ trưởng bộ giao thông vận tải quy định mức giá tối đa dịch vụ sử dụng đường bộ các dự án đầu tư xây dựng đường bộ để kinh doanh do bộ giao thông vận tải quản lý",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--181378",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"đường bộ\" và \"giao thông vận tải\", thuộc nhóm dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "181572",
+      "title": "Thông tư số 37/2020/TT-BCT Quy định Danh mục hàng hóa nguy hiểm phải đóng gói trong quá trình vận chuyển và vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt và đường thủy nội địa",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--181572",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề nhắc đến cả \"đường bộ\", \"đường sắt\", và \"đường thủy nội địa\", tuân theo nguyên tắc bao trùm để không bỏ sót dữ liệu liên quan đến đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "181733",
+      "title": "Quyết định số 1255/2004/QĐ-BGTVT Về việc thành lập ban tư vấn về công tác quản lý và bảo trì đường bộ dự án nâng cấp cải tạo mạng lưới đường bộ - WB4",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--181733",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"đường bộ\" hai lần, khẳng định liên quan trực tiếp đến lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "181735",
+      "title": "Quyết định số 582/2004/QĐ-BGTVT Về việc điều chỉnh mã số đăng ký, cấp biển số đối với xe máy chuyên dùng các tỉnh Điện Biên và Lai Châu tại Quyết định số 4381/2001/QĐ-BGTVT ngày 19/12/2001 và Quyết định số 226/2004/ QĐ-BGTVT ngày 01/02/2004 của Bộ trưởng Bộ Giao thông vận tải",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--181735",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa 'xe máy chuyên dùng', 'đăng ký', 'cấp biển số', là các dấu hiệu rõ ràng thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "181737",
+      "title": "Quyết định số 3408/2003/QĐ-BGTVT Về việc hủy bỏ quyết định số 1068/2002/QĐ-BGTVT ngày 12/4/2002 “ban hành quy định tạm thời về một số nội dung trong thiết kế công trình cầu đường quốc lộ”",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--181737",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"cầu đường quốc lộ\" và do BGTVT ban hành, liên quan trực tiếp đến cơ sở hạ tầng giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "182012",
+      "title": "Quyết định của Bộ trưởng Bộ Giao thông vận tải số 727/1999/QĐ-BGTVT ngày 24 tháng 3 năm 1999 về việc công bố danh mục tuyến vận tải hành khách liên tỉnh hiện hành bằng phương tiện đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--182012",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề ghi rõ 'bằng phương tiện đường bộ', là dấu hiệu tích cực trực tiếp thuộc lĩnh vực 'GIAO THÔNG ĐƯỜNG BỘ'.",
+      "is_traffic": true
+    },
+    {
+      "id": "182542",
+      "title": "Thông tư số 26/2025/TT-BXD Sửa đổi, bổ sung một số điều của Thông tư số 37/2023/TT-BGTVT ngày 13 tháng 12 năm 2023 của Bộ trưởng Bộ Giao thông vận tải về quản lý hoạt động vận tải đường bộ qua biên giới",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--182542",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa \"đường bộ\" và quy định về hoạt động vận tải đường bộ qua biên giới, dù do Bộ Xây dựng sửa đổi.",
+      "is_traffic": true
+    },
+    {
+      "id": "1833",
+      "title": "Quyết định số 193/BXD-ĐT Về việc ban hành quy định về quản lý xây dựng hai bên đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--1833",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'đường bộ' và quản lý hạ tầng liên quan, thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "183860",
+      "title": "Thông tư số 66/2024/TT-BCA Quy định về đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy \nchuyên dùng trong Công an nhân dân",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--183860",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ \"giao thông đường bộ\" cùng các dấu hiệu tích cực như \"sát hạch\", \"Giấy phép lái xe\".",
+      "is_traffic": true
+    },
+    {
+      "id": "184476",
+      "title": "Thông tư số 106/2025/TT-BTC Bãi bỏ Thông tư liên tịch số 152/2014/TTLT-BTC-BGTVT ngày 15 tháng 10 năm 2014 của Bộ trưởng Bộ Tài chính, Bộ trưởng Bộ Giao thông vận tải hướng dẫn thực hiện giá cước vận tải bằng xe ô tô và giá dịch vụ hỗ trợ vận tải đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--184476",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng các từ khóa \"xe ô tô\" và \"vận tải đường bộ\", trực tiếp chỉ định giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "185666",
+      "title": "Nghị định số 336/2025/NĐ-CP quy định xử phạt vi phạm hành chính trong hoạt động đường bộ.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--185666",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"hoạt động đường bộ\", là dấu hiệu tích cực mạnh mẽ thuộc domain giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "185684",
+      "title": "Thông tư số 39/2025/TT-BXD Sửa đổi, bổ sung một số định mức ban hành tại Thông tư số 44/2021/TTBGTVT ngày 31 tháng 12 năm 2021 của Bộ trưởng Bộ Giao thông vận tải ban hành định mức quản lý, bảo dưỡng thường xuyên đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--185684",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'đường bộ' và 'Bộ Giao thông vận tải', khẳng định nội dung thuộc domain này.",
+      "is_traffic": true
+    },
+    {
+      "id": "185704",
+      "title": "Thông tư số 59/2025/TT-BXD sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực hàng hải, đường thủy và đăng kiểm",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--185704",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề có từ 'đăng kiểm', một dấu hiệu tích cực cho giao thông đường bộ, dù bao gồm lĩnh vực khác.",
+      "is_traffic": true
+    },
+    {
+      "id": "186156",
+      "title": "Thông tư số 154/2025/TT-BTC Quy định mức thu, chế độ thu, nộp phí sát hạch lái xe, lệ phí cấp bằng, chứng chỉ được hoạt động trên các loại phuong tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--186156",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"sát hạch lái xe\" và \"xe máy chuyên dùng\", là các dấu hiệu mạnh liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "186293",
+      "title": "Quyết định số 43/2025/QĐ-TTg Quy định lộ trình áp dụng quy chuẩn kỹ thuật quốc gia về khí thải xe ô tô tham gia giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--186293",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa trực tiếp cụm từ \"giao thông đường bộ\" và \"xe ô tô\", là dấu hiệu tích cực mạnh mẽ xác định rõ lĩnh vực.",
+      "is_traffic": true
+    },
+    {
+      "id": "186420",
+      "title": "Thông tư số 68/2025/TT-BXD Ban hành định mức kinh tế - kỹ thuật công tác thu tiền sử dụng đường bộ đối với các dự án xây dựng đường bộ do Bộ Xây dựng quản lý",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--186420",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ cụm \"đường bộ\" và đề cập việc thu phí, xây dựng đường bộ, liên quan trực tiếp đến lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "186426",
+      "title": "Nghị định số 17/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 162/2018/NĐ-CP ngày 30 tháng 11 năm 2018 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực hàng không dân dụng được sửa đổi, bổ sung bởi Nghị định số 123/2021/NĐ-CP ngày 28 tháng 12 năm 2021 của Chính phủ về sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng và Nghị định số 282/2025/NĐ-CP ngày 30 tháng 10 năm 2025 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội; phòng, chống tệ nạn xã hội; phòng, chống bạo lực gia đình (Nghị định số 162/2018/NĐ-CP) về thẩm quyền xử phạt vi phạm hành chính.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--186426",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nêu rõ 'giao thông đường bộ' cùng các lĩnh vực khác, áp dụng nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "186855",
+      "title": "Nghị định số 279/2025/NĐ-CP Quy định về thành lập, nguồn tài chính hình thành, quản lý, hoạt động chi, \nsử dụng Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--186855",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\", là dấu hiệu tích cực mạnh mẽ cho lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "186994",
+      "title": "Thông tư số 08/2026/TT-BCT Sửa đổi, bổ sung một số điều của Thông tư số 04/2020/TT-BCT ngày 22 tháng 01 năm 2020 của Bộ trưởng Bộ Công Thương quy định về đấu giá hạn ngạch thuế quan nhập khẩu ô tô đã qua sử dụng theo Hiệp định Đối tác Toàn diện và Tiến bộ Xuyên Thái Bình Dương",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--186994",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa \"ô tô\" - phương tiện chính trong giao thông đường bộ, dù nội dung liên quan đến nhập khẩu.",
+      "is_traffic": true
+    },
+    {
+      "id": "187796",
+      "title": "Thông tư số 72/2025/TT-BXD Sửa đổi, bổ sung một số Điều của Thông tư số 36/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và hoạt động của bến xe, bãi đỗ xe, trạm dừng nghỉ, điểm dừng xe trên đường bộ; quy định trình tự, thủ tục đưa\nbến xe, trạm dừng nghỉ vào khai thác, Thông tư số 40/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về công tác phòng, chống, khắc phục hậu quả thiên tai trong lĩnh vực đường bộ; Thông tư số 41/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng\nBộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ, Thông tư số 22/2014/TT-BGTVT ngày 06 tháng 6 năm 2014 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn xây dựng quy trình vận hành, khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở\nhành khách và xe ô tô",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--187796",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề rõ ràng đề cập \"xe ô tô\" và \"đường bộ\" nhiều lần, bao gồm cả yếu tố đường thủy nhưng vẫn liên quan \"xe ô tô\".",
+      "is_traffic": true
+    },
+    {
+      "id": "187816",
+      "title": "Nghị định số 117/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 116/2017/NĐ-CP ngày 17 tháng 10 năm 2017 của Chính phủ quy định điều kiện sản xuất, lắp ráp, nhập khẩu và kinh doanh dịch vụ bảo hành, bảo dưỡng ô tô",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--187816",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ \"ô tô\" và quy định liên quan đến phương tiện này, thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "18805",
+      "title": "Quyết định số 84/2004/QĐ-BTC Quy định tạm thời không thu phí sử dụng đường bộ trên quốc lộ 20 \ntại trạm thu phí Định Quán – km 51+940 (tỉnh Đồng Nai) \nvà trạm thu phí Đức Trọng – km 203+500 (tỉnh Lâm Đồng)",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--18805",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ các từ khóa \"đường bộ\", \"quốc lộ\", \"trạm thu phí\", liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "19228",
+      "title": "Quyết định số 64/2004/QĐ-BTC Về việc ban hành mức thu phí sử dụng hầm đường bộ qua Đèo Ngang",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--19228",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ 'hầm đường bộ' trực tiếp liên quan đến hạ tầng và sử dụng giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "19801",
+      "title": "Thông tư liên tịch số 78/2003/TTLT-BTC-BGTVT hướng dẫn thực hiện khoán chi hoạt động thu phí đối với các Trạm thu phí đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--19801",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"Trạm thu phí đường bộ\", dấu hiệu trực tiếp của lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "19896",
+      "title": "Quyết định số 294/2003/QĐ-BGTVT Ban hành Quy định trách nhiệm và hình thức xử lý đối với tổ chức, cá nhân khi vi phạm về quản lý, điều hành hoạt động của Trạm kiểm tra tải trọng xe cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--19896",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ trọng tâm 'xe cơ giới đường bộ' và 'Trạm kiểm tra tải trọng', liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "19964",
+      "title": "Quyết định số 47/2004/QĐ-BTC của Bộ trưởng Bộ Tài chính về việc tạm thời không thu phí sử dụng đường bộ tại trạm thu phí T1 quốc lộ 51 (Long Thành) đối với xe mô tô hai bánh, xe mô tô ba bánh, xe hai bánh gắn máy, xe ba bánh gắn máy và các loại xe tương tự.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--19964",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"đường bộ\", \"trạm thu phí\" và \"xe mô tô\", là các dấu hiệu tích cực trực tiếp liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "19965",
+      "title": "Thông tư liên tịch số 05/2004/TTLT-BGTVT-BTC Hướng dẫn thực hiện chuyển giao quyền thu phí sử dụng đường bộ có thời hạn",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--19965",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"thu phí sử dụng đường bộ\", thuộc nhóm dấu hiệu tích cực cho domain giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "20582",
+      "title": "Nghị định số 168/2003/NĐ-CP Quy định về nguồn tài chính và quản lý, sử dụngnguồn tài chính cho quản lý, bảo trì đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--20582",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"đường bộ\" liên quan quản lý, bảo trì, thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "21818",
+      "title": "Chỉ thị số 25/2002/CT-BGTVT Về việc tăng cường kiểm tra và chấn chỉnh công tác kiểm định phương tiện cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--21818",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ 'phương tiện cơ giới đường bộ' và 'kiểm định', trực tiếp chỉ ra nội dung thuộc domain Giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "22235",
+      "title": "Quyết định số 98/2002/QĐ-BTC Về việc áp dụng hình thức bán vé tháng thu phí sử dụng cầu, đường bộ qua Trạm thu phí T1- Quốc lộ 51",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--22235",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa các từ khóa trực tiếp như \"đường bộ\", \"Trạm thu phí\" và \"Quốc lộ 51\", khẳng định nội dung thuộc domain giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "22432",
+      "title": "Quyết định số 77/2002/QĐ-BTC Về việc tạm thời thực hiện thu và miễn, giảm phí sử dụng cầu, đường bộ, đò, phà",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--22432",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa \"đường bộ\" và cả yếu tố \"đò, phà\", thuộc nguyên tắc bao trùm, nên liên quan giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "22644",
+      "title": "Quyết định số 17/2002/QĐ-BTC Về phân bổ mức vốn vay tín dụng ưu đãi để thực hiện chương trình kiên cố hoá kênh mương, đường giao thông nông thôn, cơ sở hạ tầng nuôi trồng thuỷ sản, cơ sở hạ tầng làng nghề ở nông thôn năm 2002",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--22644",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề có \"đường giao thông nông thôn\" là một dạng của giao thông đường bộ, áp dụng nguyên tắc bao trùm dù có các lĩnh vực khác.",
+      "is_traffic": true
+    },
+    {
+      "id": "23115",
+      "title": "Lệnh số 07/2001/L-CTN Về việc công bố Luật Giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--23115",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nêu \"Luật Giao thông đường bộ\", rõ ràng thuộc domain này.",
+      "is_traffic": true
+    },
+    {
+      "id": "23129",
+      "title": "Thông tư số 16/2001/TT-BGTVT Hướng dẫn một số điểm về xử phạt vi phạm hành chính đối với hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--23129",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"giao thông đường bộ\", là dấu hiệu tích cực trực tiếp và mạnh mẽ nhất cho domain này.",
+      "is_traffic": true
+    },
+    {
+      "id": "2340",
+      "title": "Thông tư số 09/TT-BNV Về việc cấp bằng lái xe cơ giới đường bộ và phiếu kiểm soát lái xe",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--2340",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"lái xe cơ giới đường bộ\" và \"cấp bằng lái xe\", là dấu hiệu rõ ràng thuộc domain Giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "2347",
+      "title": "Thông tư liên tịch số 01/TTLN Hướng dẫn việc điều tra, xử lý các vụ vi phạm luật lệ giao thông đường bộ do người, phương tiện giao thông nước ngoài gây ra",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--2347",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"giao thông đường bộ\", rõ ràng xác định nội dung thuộc lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "25047",
+      "title": "Thông tư liên tịch số 01/2010/TTLT-BCA-BGTVT Quy định về phối hợp cung cấp số liệu đăng ký, đăng kiểm phương tiện giao thông cơ giới đường bộ, dữ liệu về tai nạn giao thông và cấp, đổi, thu hồi, tước quyền sử dụng giấy phép lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--25047",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ các từ khóa 'đường bộ', 'đăng kiểm', 'giấy phép lái xe' liên quan trực tiếp đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "25079",
+      "title": "Thông tư số 30/2010/TT-BTC Hướng dẫn quản lý tài chính đối với nhiệm vụ cung ứng sản phẩm, dịch vụ công ích trong lĩnh vực đường bộ, đường thuỷ nội địa",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--25079",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng \"đường bộ\" và cả \"đường thuỷ nội địa\", theo nguyên tắc bao trùm, phải trả về TRUE.",
+      "is_traffic": true
+    },
+    {
+      "id": "25357",
+      "title": "Thông tư liên tịch số 223-TT/LB Quy định nguyên tắc và hướng dẫn về thủ tục đồng bệ xe ca, bệ xe chuyên dùng, rơ-moóc, sơ mi rơ-moóc; thay thế các tổng thành của xe bằng các tổng thành khác nhãn hiệu và thông số kỹ thuật đối với các loại xe cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--25357",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"xe cơ giới đường bộ\" và các phương tiện đường bộ, thuộc nhóm dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "2574",
+      "title": "Thông tư liên tịch số 66/TT-LB Hướng dẫn thi hành Quyết định số 211-HĐBT ngày 9/11/1987 của Hội đồng Bộ trưởng về việc thu và sử dụng phí giao thông đường bộ, đường sông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--2574",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cả \"đường bộ\" và \"đường sông\", theo nguyên tắc bao trùm phải trả về TRUE để không bỏ sót dữ liệu.",
+      "is_traffic": true
+    },
+    {
+      "id": "26618",
+      "title": "Thông tư liên tịch số 72/2011/TTLT-BTC-BGTVT Hướng dẫn cơ chế quản lý tài chính đào tạo lái xe cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--26618",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'đào tạo lái xe cơ giới đường bộ', là dấu hiệu tích cực rõ ràng của giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "27081",
+      "title": "Thông tư số 151/2011/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng đường bộ trạm thu phí tuyến tránh Quốc lộ 1A, đoạn qua thị trấn Đức Phổ, tỉnh Quảng Ngãi",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--27081",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa các từ khóa trực tiếp như \"đường bộ\" và \"trạm thu phí\", liên quan rõ ràng đến GIAO THÔNG ĐƯỜNG BỘ.",
+      "is_traffic": true
+    },
+    {
+      "id": "27160",
+      "title": "Thông tư số 76/2011/TT-BCA Quy định phân công trách nhiệm và quan hệ phối hợp trong công tác điều tra, giải quyết tai nạn giao thông của lực lượng Cảnh sát nhân dân",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--27160",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tai nạn giao thông và trách nhiệm của Cảnh sát nhân dân trong điều tra, giải quyết chủ yếu liên quan đến lĩnh vực đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "27754",
+      "title": "Thông tư số 195/2011/TT-BTC Hướng dẫn chế độ thu, nộp, quản lý và sử dụng phí thử nghiệm khí thải đối với phương tiện giao thông cơ giới đường bộ sản xuất, lắp ráp và nhập khẩu",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--27754",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm \"giao thông cơ giới đường bộ\" và \"thử nghiệm khí thải\", liên quan trực tiếp đến lĩnh vực đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "30292",
+      "title": "Thông tư số 11/2013/TT-BCA Quy định chi tiết thi hành một số điều của Nghị định số 34/2010/NĐ-CP ngày 02/10/2010 và Nghị định số 71/2012/NĐ-CP ngày 19/9/2012 sửa đổi, bổ sung một số điều của Nghị định 34/2010/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--30292",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp chứa cụm từ \"giao thông đường bộ\" và \"xử phạt vi phạm hành chính\", xác định nội dung thuộc domain.",
+      "is_traffic": true
+    },
+    {
+      "id": "3249",
+      "title": "Thông tư liên tịch số 4-TT/LB Hướng dẫn và quy định chế độ hạch toán kinh tế đối với các xí nghiệp quản lý và sửa chữa cầu đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--3249",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"cầu đường bộ\", liên quan trực tiếp đến cơ sở hạ tầng giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "35949",
+      "title": "Thông tư liên tịch số 10/2008/TTLT/BTC-BGTVT Hướng dẫn chế độ quản lý, thanh toán, quyết toán kinh phí sự nghiệp kinh tế quản lý, bảo trì đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--35949",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa \"đường bộ\" và đề cập \"quản lý, bảo trì đường bộ\", rõ ràng thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "3621",
+      "title": "Thông tư liên tịch số 236/TT-LB Hướng dẫn về quy định chế độ quản lý, cấp phát vốn quản lý và sửa chữa cầu đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--3621",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ trọng tâm \"cầu đường bộ\", chỉ rõ nội dung thuộc lĩnh vực giao thông đường bộ theo hướng dẫn.",
+      "is_traffic": true
+    },
+    {
+      "id": "36956",
+      "title": "Thông tư số 13/2014/TT-BQP Quy định việc kiểm tra, giám sát công tác đào tạo, sát hạch lái xe mô tô, ô tô quân sự và trách nhiệm của cơ quan, đơn vị, tổ chức có liên quan",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--36956",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Chứa các từ khóa mạnh \"sát hạch lái xe\", \"mô tô\", \"ô tô\" liên quan trực tiếp giao thông đường bộ, dù trong lĩnh vực quân sự.",
+      "is_traffic": true
+    },
+    {
+      "id": "37392",
+      "title": "Thông tư số 53/2014/TT-BGTVT Quy định về bảo dưỡng kỹ thuật, sửa chữa phương tiện giao thông cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--37392",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"phương tiện giao thông cơ giới đường bộ\", là dấu hiệu tích cực mạnh mẽ.",
+      "is_traffic": true
+    },
+    {
+      "id": "37935",
+      "title": "Thông tư liên tịch số 26/2014/TTLT-BYT-BCA Quy định về xét nghiệm nồng độ cồn trong máu của người điều khiển phương tiện giao thông cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--37935",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'giao thông cơ giới đường bộ' và 'người điều khiển phương tiện', thuộc nhóm dấu hiệu tích cực.",
+      "is_traffic": true
+    },
+    {
+      "id": "37992",
+      "title": "Thông tư số 197/2013/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng đường bộ 02 trạm thu phí Ninh An và Bàn Thạch, quốc lộ 1",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--37992",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa các dấu hiệu tích cực rõ ràng như \"phí sử dụng đường bộ\" và \"trạm thu phí\", thuộc domain \"GIAO THÔNG ĐƯỜNG BỘ\".",
+      "is_traffic": true
+    },
+    {
+      "id": "39656",
+      "title": "Quyết định số 4597/2001/QĐ-BGTVT Quy định kiểu loại  phương tiện giao thông cơ giới đường bộ  được phép tham gia giao thông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--39656",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"phương tiện giao thông cơ giới đường bộ\", đây là dấu hiệu tích cực mạnh mẽ cho domain này.",
+      "is_traffic": true
+    },
+    {
+      "id": "46346",
+      "title": "Thông tư số 98/2014/TT-BTC Hướng dẫn kế toán tài sản kết cấu hạ tầng giao thông đuờng bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--46346",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"kết cấu hạ tầng giao thông đuờng bộ\", là dấu hiệu tích cực mạnh mẽ.",
+      "is_traffic": true
+    },
+    {
+      "id": "49955",
+      "title": "Chỉ thị số 10/CT-BGTVT Về việc triển khai thực hiện quyết liệt các giải pháp đồng bộ nhằm kéo giảm tai nạn giao thông trong hoạt động vận tải đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--49955",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng 'vận tải đường bộ' và 'tai nạn giao thông', khẳng định thuộc domain GIAO THÔNG ĐƯỜNG BỘ.",
+      "is_traffic": true
+    },
+    {
+      "id": "5707",
+      "title": "Thông tư số 319/2000/TT-BGTVT Hướng dẫn về tiêu chuẩn sức khỏe và điều kiện làm việc của người điều khiển phương tiện cơ giới dường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--5707",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"phương tiện cơ giới dường bộ\", liên quan trực tiếp đến sức khỏe người điều khiển giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "5735",
+      "title": "Quyết định số 07/2000/QĐ-BTC Về việc ban hành quy định thay thế tờ khai nguồn gốc xe ô tô xe gắn máy nhập khẩu bằng biên lai thuế xuất khẩu, thuế nhập khẩu và thuế GTGT mẫu CTT52..",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--5735",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"xe ô tô\" và \"xe gắn máy\" là dấu hiệu tích cực mạnh mẽ, xác định nội dung liên quan đến phương tiện giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "6286",
+      "title": "Thông tư số 238/2000/TT-BGTVT Sửa đổi Thông tư số 522/1999/TT-BGTVT ngày 20/10/1999 Hướng dẫn đăng ký, cấp biển số và kiểm tra an toàn kỹ thuật các loại xe, máy chuyên dùng thi công đường bộ.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--6286",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa từ khóa 'đường bộ' và 'xe, máy chuyên dùng' liên quan đến hạ tầng, đăng ký, kiểm tra an toàn kỹ thuật phương tiện đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "6399",
+      "title": "Quyết định số 14/2000/QĐ-TTg Quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có xe Cảnh sát giao thông dẫn đường",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--6399",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"xe Cảnh sát giao thông\", là dấu hiệu rõ ràng của lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "6817",
+      "title": "Chỉ thị số 317/1999/CT-BGTVT Về chấn chỉnh hoạt động vận tải hành khách đường bộ và tổ chức quản lý bến xe ô tô khách",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--6817",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng 'đường bộ' và 'ô tô khách', là các dấu hiệu tích cực mạnh mẽ cho lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "6829",
+      "title": "Quyết định số 3155/1999/QĐ-BGTVT Tiêu chuẩn tạm thời về an toàn kỹ thuật và bảo vệ môi trường đối với các loại xe, máy chuyên dùng thi công đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--6829",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"đường bộ\" và \"xe\" chuyên dùng thi công đường bộ, liên quan an toàn kỹ thuật phương tiện đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "7380",
+      "title": "Thông tư liên tịch số 133/1998/TTLT/BTC-BGTVT Hướng dẫn chế độ quản lý tài chính đối với doanh nghiệp Nhà nước hoạt động công ích trong ngành đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--7380",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"ngành đường bộ\", là dấu hiệu tích cực mạnh mẽ, liên quan trực tiếp đến lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "78635",
+      "title": "Thông tư liên tịch số 236-TT-LB Hướng dẫn về quy định chế độ quản lý, cấp phát vốn quản lý và sửa chữa cầu đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--78635",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ 'đường bộ' (cầu đường bộ), là dấu hiệu tích cực mạnh mẽ cho lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "79806",
+      "title": "Thông tư số 32 TC/CTN Hướng dẫn việc thực hiện chế độ thuế buôn chuyến trong Ðiều lệ thuế công thương nghiệp và Quyết định số 80-CT của Chủ tịch Hội đồng Bộ trưởng về giải thể các trạm kiểm soát trên đường giao thông.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--79806",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề đề cập 'giải thể các trạm kiểm soát trên đường giao thông', trực tiếp liên quan đến quản lý và hạ tầng giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "80277",
+      "title": "Thông tư liên tịch số 59 TT/LB Bổ sung, sửa đổi một số điểm về thực hiện thu phí giao thông đường bộ, đường sông.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--80277",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng 'giao thông đường bộ' cùng với 'đường sông', thuộc nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "8132",
+      "title": "Thông tư số 94/1997/TT-BTC Hướng dẫn bổ sung chế độ thu và quản lý Nhà nước về bảo đảm an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--8132",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"giao thông đường bộ\" và \"giao thông đô thị\", thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "82042",
+      "title": "Thông tư số 26/2012/TT-BTC Hướng dẫn cấp bù chênh lệch lãi suất cho vay Dự án đầu tư phương tiện vận tải hành khách công cộng bằng xe buýt tại thành phố Hồ Chí Minh",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--82042",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề đề cập trực tiếp \"xe buýt\" và \"vận tải hành khách công cộng bằng xe buýt\", thuộc lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "82182",
+      "title": "Thông tư liên tịch số 80 TT/LB Hướng dẫn, bổ sung, sửa đổi 1 số điểm về thực hiện chế độ thu phí giao thông đướng bộ, đường sông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--82182",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"giao thông đường bộ\" rõ ràng, dù có cả \"đường sông\", vẫn thuộc nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "82329",
+      "title": "Quyết định số 45/2008/QĐ-BCT Về việc điều chỉnh, bổ sung “Quy hoạch hệ thống cửa hàng xăng dầu dọc tuyến đường Hồ Chí Minh giai đoạn I”",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--82329",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề đề cập \"tuyến đường Hồ Chí Minh\" và \"cửa hàng xăng dầu\", liên quan trực tiếp đến hạ tầng, dịch vụ cho giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "82600",
+      "title": "Quyết định số 13/1999/QĐ/BTC Về việc ban hành mức thu phí sử dụng đường quốc lộ 1A trạm Trảng Bom km 1847 tỉnh Đồng Nai",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--82600",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"đường quốc lộ\" và \"thu phí sử dụng đường\", các dấu hiệu trực tiếp của lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "82772",
+      "title": "Thông tư số 78/2007/TT-BTC Hướng dẫn việc thu, nộp tỉền phạt, quản lỷ và sử dụng tiền thu từ xử phạt vi phạm hành chính trong các lĩnh vực gỉao thông đuờng bộ, đường sắt và đưòng thuỷ nội địa",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--82772",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'giao thông đường bộ' cùng các lĩnh vực khác, tuân thủ nguyên tắc bao trùm.",
+      "is_traffic": true
+    },
+    {
+      "id": "84069",
+      "title": "Quyết định số 144/2003/QĐ/BTC Về việc ban hành mức thu phí sử dụng đường bộ tuyến tránh  Quốc lộ 1A đoạn qua thị xã Tam Kỳ, tỉnh Quảng Nam",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--84069",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa \"đường bộ\" và \"Quốc lộ 1A\", trực tiếp đề cập phí sử dụng hạ tầng giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "8410",
+      "title": "Quyết định số 1748/QĐ-GTVT Ban hành Quy định tạm thời về tổ chức quản lý và cấp giấy phép vận tải đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--8410",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"vận tải đường bộ\", đây là dấu hiệu tích cực rõ ràng, xác định trực tiếp lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "8413",
+      "title": "Chỉ thị số 11/CT-BNV(V11) Về việc chấn chỉnh công tác tuần tra, kiểm soát giao thông đường bộ và chống tiêu cực trong khi thi hành nhiệm vụ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--8413",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"tuần tra, kiểm soát\", khẳng định nội dung thuộc domain này.",
+      "is_traffic": true
+    },
+    {
+      "id": "84229",
+      "title": "Quyết định số 1345/QĐ-BTC Về việc tạm thời không thu phí sử dụng đường bộ đối với xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy và các loại xe tương tự",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--84229",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng 'phí sử dụng đường bộ' và các loại xe như 'xe mô tô', 'xe gắn máy', thuộc nhóm dấu hiệu tích cực liên quan giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "84914",
+      "title": "Thông tư liên tịch số 90/2001/TTLT-BTC-BGTVT Thông tư hướng dẫn quản lý, thanh toán vốn NSNN và nguồn thu phí cầu đường bộ để trả nợ vốn vay tín dụng đầu tư phát triển của Nhà nước đối với các dự án giao thông",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--84914",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ 'cầu đường bộ', là dấu hiệu trực tiếp của lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "86882",
+      "title": "Quyết định số 193-BXD/ĐT Về việc ban hành quy định về quản lý xây dựng hai bên đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--86882",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"đường bộ\" và quy định quản lý xây dựng hai bên đường, có liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "8711",
+      "title": "Quyết định số 131/TC-QĐ-VT Ban hành Quy chế bán đấu giá xe ô tô nhập từ nguồn viện trợ không hoàn lại 3 tỷ yên Nhật tài khoá 1994-1995",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--8711",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa “xe ô tô” - phương tiện giao thông đường bộ cốt lõi, dù về đấu giá nhưng đối tượng chính là phương tiện đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "92852",
+      "title": "Thông tư số 57/2015/TT-BCA Hướng dẫn về trang bị phương tiện phòng cháy và chữa cháy đối với phương tiện giao thông cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--92852",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"phương tiện giao thông cơ giới đường bộ\", là dấu hiệu tích cực mạnh mẽ cho lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "9295",
+      "title": "Thông tư số 9/TC-CSTC Hướng dẫn chi tiết việc sử dụng tiền thu về xử phạt đối với các hành vi vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9295",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"giao thông đường bộ\" và đề cập an toàn giao thông đô thị, xác định trực tiếp lĩnh vực.",
+      "is_traffic": true
+    },
+    {
+      "id": "9470",
+      "title": "Thông tư số 19/TT-PC-VT Hướng dẫn cấp chứng chỉ hành nghề kinh doanh vận tải hàng hoá, hành khách công cộng bằng đường bộ, đường thuỷ nội địa cho cá nhân và nhóm kinh doanh quy định tại Nghị định 66-HĐBT ngày 2/3/1992",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9470",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cả \"đường bộ\" và \"đường thuỷ nội địa\", theo nguyên tắc bao trùm phải trả về TRUE để không bỏ sót dữ liệu liên quan.",
+      "is_traffic": true
+    },
+    {
+      "id": "9507",
+      "title": "Thông tư liên tịch số 56/TTLB-TC-NV Hướng dẫn việc thu và sử dụng tiền phạt đối với các hành vi vi phạm hành chính trong lĩnh vực an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9507",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"an toàn giao thông đường bộ\", phù hợp hoàn toàn với domain.",
+      "is_traffic": true
+    },
+    {
+      "id": "9519",
+      "title": "Thông tư liên tịch số 77/TTLB-TC-NV Hướng dẫn thu và sử dụng tiền phạt đối với các hành vi vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9519",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến 'giao thông đường bộ' và 'vi phạm hành chính', là dấu hiệu tích cực rõ ràng.",
+      "is_traffic": true
+    },
+    {
+      "id": "9581",
+      "title": "Thông tư liên tịch số 05/TT-LB Hướng dẫn sửa đổi, bổ sung một số điểm về quản lý và sử dụng tiền thu phí qua cầu đường bộ.",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9581",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ trọng tâm \"cầu đường bộ\", trực tiếp chỉ rõ nội dung liên quan đến giao thông đường bộ và phí sử dụng.",
+      "is_traffic": true
+    },
+    {
+      "id": "9716",
+      "title": "Thông tư liên tịch số 154/TT-LB Hướng dẫn thực hiện nhiệm vụ giáo dục và đào tạo quy định trong Nghị định 36/CP ngày 29-5-1995 của Chính phủ về \"bảo đảm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị\"",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9716",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"giao thông đô thị\", cho thấy nội dung liên quan trực tiếp đến domain.",
+      "is_traffic": true
+    },
+    {
+      "id": "9719",
+      "title": "Chỉ thị số 124/CT Về việc chấn chỉnh công tác đào tạo lái xe ô tô trên các cơ sở đào tạo trong toàn quốc",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9719",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm từ \"đào tạo lái xe ô tô\", là dấu hiệu tích cực trực tiếp liên quan đến giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "9720",
+      "title": "Quyết định số 1906/PC Quy định về điều kiện, nội dung và thủ tục cấp phép lưu hành phương tiện cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9720",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"phương tiện cơ giới đường bộ\", là dấu hiệu mạnh mẽ thuộc domain giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "9722",
+      "title": "Quyết định số 3321/QĐ-KH-KT Ban hành bản Tiêu chuẩn ngành 22-TCN 224-95 \"Phương tiện cơ giới đường bộ-Tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường\"",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9722",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa cụm \"Phương tiện cơ giới đường bộ\" và liên quan an toàn kỹ thuật, trực tiếp thuộc giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "9723",
+      "title": "Quyết định số 3141/QĐ-TCCB-LĐ Thành lập Trung tâm đăng kiểm phương tiện cơ giới đường bộ",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9723",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"đăng kiểm phương tiện cơ giới đường bộ\", là dấu hiệu rõ ràng thuộc domain giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "9724",
+      "title": "Quyết định số 3322/QĐ-KH-KT Ban hành bản Tiêu chuẩn ngành 22-TCN 225-95 \"Phương tiện cơ giới đường bộ-Quy trình kiểm định an toàn kỹ thuật và bảo vệ môi trường\"",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9724",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng \"phương tiện cơ giới đường bộ\" và \"kiểm định an toàn kỹ thuật\", liên quan trực tiếp đến lĩnh vực giao thông đường bộ.",
+      "is_traffic": true
+    },
+    {
+      "id": "9726",
+      "title": "Quyết định số 3407/QĐ-KH-KT Ban hành bản Tiêu chuẩn ngành 22-TCN 226-95 \"Trạm đăng kiểm phương tiện cơ giới đường bộ\"",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9726",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ cụm từ “Trạm đăng kiểm” và “phương tiện cơ giới đường bộ”, là dấu hiệu tích cực mạnh mẽ.",
+      "is_traffic": true
+    },
+    {
+      "id": "9813",
+      "title": "Chỉ thị số 317-TTg Về tăng cường công tác quản lý trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9813",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ cụm từ \"giao thông đường bộ\", khẳng định trực tiếp nội dung thuộc lĩnh vực này.",
+      "is_traffic": true
+    },
+    {
+      "id": "9847",
+      "title": "Thông tư liên tịch số 73/TTg Hướng dẫn bổ sung việc thu phạt đối với các hành vi vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9847",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề chứa rõ ràng cụm từ \"giao thông đường bộ\" và \"vi phạm hành chính\", trực tiếp chỉ định lĩnh vực cần phân tích.",
+      "is_traffic": true
+    },
+    {
+      "id": "9864",
+      "title": "Chỉ thị số 39/CT-VHTT Thực hiện Nghị định 36/CP của Chính phủ và Chỉ thị 317/TTg của Thủ tướng Chính phủ về việc bảo đảm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị",
+      "url": "https://vbpl.vn/van-ban/chi-tiet/--9864",
+      "eff_status": {
+        "id": "1419f6be-4a15-44a7-97ac-ea042770a514",
+        "code": "CHL",
+        "name": "Còn hiệu lực"
+      },
+      "ai_filter_reason": "Tiêu đề trực tiếp nhắc đến \"giao thông đường bộ\" và \"giao thông đô thị\", rõ ràng thuộc lĩnh vực này.",
+      "is_traffic": true
+    }
+  ],
+  "count": 225
+}

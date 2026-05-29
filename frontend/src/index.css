@@ -1,0 +1,115 @@
+:root {
+  /* Premium Light Theme Inspired by Modern Minimalist Interfaces (e.g., Google/Notion) */
+  --bg-primary: #f8fafc;         /* Soft slate light background for main chat area */
+  --bg-secondary: #ffffff;       /* Clean white for the Sidebar (elegant contrast) */
+  --bg-surface: #ffffff;         /* Clean white for user bubbles, cards, input wrapper */
+  --bg-hover: #f1f5f9;           /* Soft light blue-grey for hover states */
+
+  --text-primary: #0f172a;       /* Deep slate for primary readable text */
+  --text-secondary: #475569;     /* Slate grey for secondary text / sub-labels */
+  --text-muted: #64748b;         /* Muted grey-blue for placeholders, inactive text */
+
+  --accent-blue: #1d4ed8;        /* Deep premium blue for links, key text */
+  --accent-purple: #4f46e5;      /* Royal indigo accent */
+  --accent-gradient: linear-gradient(135deg, #3b82f6 0%, #4f46e5 50%, #7c3aed 100%); /* Gorgeous vibrant gradient */
+  --accent-hover: #1e40af;       /* Blue hover accent */
+
+  --border-color: #e2e8f0;       /* Soft border lines */
+  --error-color: #ef4444;        /* Premium red for errors */
+  --success-color: #10b981;      /* Premium green for success */
+
+  --font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  --sidebar-width: 280px;
+  
+  --border-radius-sm: 8px;
+  --border-radius-md: 12px;
+  --border-radius-lg: 24px;
+  
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Font sizes */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+}
+
+body.dark-theme {
+  /* Color Palette — Original Dark theme */
+  --bg-primary: #131314;
+  --bg-secondary: #1e1f20;
+  --bg-surface: #282a2c;
+  --bg-hover: #333537;
+
+  --text-primary: #e3e3e3;
+  --text-secondary: #c4c7c5;
+  --text-muted: #8e918f;
+
+  --accent-blue: #a8c7fa;
+  --accent-purple: #d3b3fd;
+  --accent-gradient: linear-gradient(74deg, #a8c7fa 0%, #d3b3fd 50%, #f1b6da 100%);
+  --accent-hover: #c2dbff;
+
+  --border-color: #444746;
+  --error-color: #f2b8b5;
+  --success-color: #c2e7c9;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--accent-blue);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--accent-hover);
+}
+
+button {
+  font-family: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+input, textarea {
+  font-family: inherit;
+  color: inherit;
+  outline: none;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
