@@ -1,0 +1,34 @@
+name: Deploy to AWS EC2
+
+on:
+  push:
+    branches:
+      - main # Chạy workflow mỗi khi push code lên nhánh main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Deploy to EC2 via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ubuntu
+          key: ${{ secrets.EC2_SSH_KEY }}
+          port: 22
+          script: |
+            # Di chuyển vào thư mục dự án trên EC2
+            cd ~/Agentic-RAG-Traffic-Law || exit 1
+            
+            # Kéo mã nguồn mới nhất từ GitHub
+            git pull origin main
+            
+            # Khởi động lại các container bằng Docker Compose
+            docker compose down
+            docker compose up -d --build
+            
+            # Dọn dẹp Docker images cũ/rác để giải phóng dung lượng ổ đĩa
+            docker image prune -f
