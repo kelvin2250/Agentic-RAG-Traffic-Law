@@ -9,9 +9,7 @@ on:
       - main # Kích hoạt khi tạo Pull Request vào main
 
 jobs:
-  # =========================================================================
   # JOB 1: CONTINUOUS INTEGRATION (CI) - KIỂM TRA CHẤT LƯỢNG CODE & CÚ PHÁP
-  # =========================================================================
   lint-and-test:
     runs-on: ubuntu-latest
     steps:
@@ -38,33 +36,7 @@ jobs:
           # Kiểm tra định dạng chuẩn PEP8 (Cảnh báo, không chặn deploy)
           flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 
-      # NOTE ĐỂ ĐƯA VÀO CV / HỌC TẬP:
-      # Nếu bạn muốn chạy bộ Integration Test (test_api.py) tự động trên GitHub Runner,
-      # bạn cần khởi động toàn bộ Docker Compose trong môi trường CI.
-      # Để bật tính năng này, hãy bỏ comment các bước bên dưới và truyền các API Secrets cần thiết.
-      #
-      # - name: Start Services for Integration Tests
-      #   env:
-      #     COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
-      #     BRIGHTDATA_TOKEN: ${{ secrets.BRIGHTDATA_TOKEN }}
-      #   run: |
-      #     echo "COHERE_API_KEY=$COHERE_API_KEY" >> .env
-      #     echo "BRIGHTDATA_TOKEN=$BRIGHTDATA_TOKEN" >> .env
-      #     docker compose up -d --build
-      #     # Chờ các service khởi động xong và healthy
-      #     sleep 30
-      #
-      # - name: Run API Integration Tests
-      #   run: |
-      #     pip install requests
-      #     python backend/tests/test_api.py
-      #
-      # - name: Stop Services
-      #   run: docker compose down
-
-  # =========================================================================
   # JOB 2: CONTINUOUS DEPLOYMENT (CD) - TRIỂN KHAI LÊN AWS EC2
-  # =========================================================================
   deploy:
     needs: lint-and-test # BẮT BUỘC job CI (lint-and-test) phải PASS thì mới được chạy deploy
     if: github.event_name == 'push' && github.ref == 'refs/heads/main' # Chỉ deploy khi push code lên nhánh main
