@@ -3,15 +3,12 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - main # Kích hoạt khi push code vào main
+      - main
   pull_request:
     branches:
-      - main # Kích hoạt khi tạo Pull Request vào main
+      - main
 
 jobs:
-  # =========================================================================
-  # JOB 1: CONTINUOUS INTEGRATION (CI) - KIỂM TRA CHẤT LƯỢNG CODE & CÚ PHÁP
-  # =========================================================================
   lint-and-test:
     runs-on: ubuntu-latest
     steps:
@@ -31,43 +28,22 @@ jobs:
 
       - name: Run Syntax Check (Flake8)
         run: |
-          # Kiểm tra các lỗi cú pháp nghiêm trọng (Syntax Errors, undefined names...)
-          # Job sẽ FAIL ngay lập tức nếu code có lỗi cú pháp
           flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-          
-          # Kiểm tra định dạng chuẩn PEP8 (Cảnh báo, không chặn deploy)
           flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 
-      # NOTE ĐỂ ĐƯA VÀO CV / HỌC TẬP:
-      # Nếu bạn muốn chạy bộ Integration Test (test_api.py) tự động trên GitHub Runner,
-      # bạn cần khởi động toàn bộ Docker Compose trong môi trường CI.
-      # Để bật tính năng này, hãy bỏ comment các bước bên dưới và truyền các API Secrets cần thiết.
-      #
-      # - name: Start Services for Integration Tests
-      #   env:
-      #     COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
-      #     BRIGHTDATA_TOKEN: ${{ secrets.BRIGHTDATA_TOKEN }}
-      #   run: |
-      #     echo "COHERE_API_KEY=$COHERE_API_KEY" >> .env
-      #     echo "BRIGHTDATA_TOKEN=$BRIGHTDATA_TOKEN" >> .env
-      #     docker compose up -d --build
-      #     # Chờ các service khởi động xong và healthy
-      #     sleep 30
-      #
-      # - name: Run API Integration Tests
-      #   run: |
-      #     pip install requests
-      #     python backend/tests/test_api.py
-      #
-      # - name: Stop Services
-      #   run: docker compose down
+      - name: Install Testing dependencies
+        run: |
+          pip install pytest pyjwt passlib bcrypt pydantic-settings fastapi
 
-  # =========================================================================
-  # JOB 2: CONTINUOUS DEPLOYMENT (CD) - TRIỂN KHAI LÊN AWS EC2
-  # =========================================================================
+      - name: Run Unit Tests
+        env:
+          PYTHONPATH: ./backend
+        run: |
+          pytest backend/tests/test_security.py
+
   deploy:
-    needs: lint-and-test # BẮT BUỘC job CI (lint-and-test) phải PASS thì mới được chạy deploy
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main' # Chỉ deploy khi push code lên nhánh main
+    needs: lint-and-test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -81,7 +57,9 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           port: 22
           script: |
-            cd ~/Agentic-RAG-Traffic-Law || exit 1
+            set -e # Dừng ngay lập tức nếu bất kỳ lệnh nào bên dưới bị lỗi
+            
+            cd ~/Agentic-RAG-Traffic-Law
             
             # Kéo mã nguồn mới nhất từ GitHub
             git pull origin main

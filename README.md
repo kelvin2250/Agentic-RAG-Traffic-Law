@@ -170,7 +170,7 @@ A dedicated **Validator Node** performs **zero-latency, code-based quality check
 | **Vector DB** | Qdrant, BM25 | Hybrid storage for semantic (embeddings) and lexical search. |
 | **Reranking** | Cohere Rerank API (v3.5) | Cross-encoder matching for highly relevant law context retrieval. |
 | **External Tools** | FastMCP, SSE Transport, BrightData SERP, Trafilatura | Model Context Protocol implementation for web search & scraping fallbacks. |
-| **DevOps** | Docker, Docker Compose, Alembic (DB migration) | Containerization, environment replication, and hot-reloads. |
+| **DevOps** | Docker, Docker Compose, Alembic (DB migration), GitHub Actions CI/CD, AWS EC2 | Containerization, environment replication, hot-reloads, automated testing & linting, production deployment with zero-downtime strategy. |
 
 ### LangGraph State Design (`AgentState`)
 The global state acts as the single source of truth, managing dynamic routing and custom reducers for list concatenation and deduplication:
