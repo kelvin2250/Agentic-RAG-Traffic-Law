@@ -28,16 +28,25 @@ jobs:
 
       - name: Run Syntax Check (Flake8)
         run: |
+          # stop the build if there are Python syntax errors or undefined names
           flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          # exit-zero treats all errors as warnings.
           flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 
-      - name: Install Testing dependencies
+      - name: Install Project and Testing dependencies
         run: |
-          pip install pytest pyjwt passlib bcrypt pydantic-settings fastapi
+          # Ưu tiên cài đặt từ requirements.txt để đồng bộ môi trường dev/prod
+          if [ -f backend/requirements.txt ]; then pip install -r backend/requirements.txt; fi
+          # Cài đặt thêm các công cụ phục vụ riêng cho môi trường testing nếu chưa có
+          pip install pytest
 
       - name: Run Unit Tests
         env:
           PYTHONPATH: ./backend
+          # Khai báo các biến môi trường dummy cần thiết cho quá trình chạy test security
+          APP_ENV: testing
+          JWT_SECRET_KEY: "production_testing_secret_key_placeholder"
+          ALGORITHM: "HS256"
         run: |
           pytest backend/tests/test_security.py
 
@@ -57,16 +66,17 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           port: 22
           script: |
-            set -e # Dừng ngay lập tức nếu bất kỳ lệnh nào bên dưới bị lỗi
+            set -e # Dừng script ngay lập tức nếu có bất kỳ lệnh nào thất bại
             
             cd ~/Agentic-RAG-Traffic-Law
             
-            # Kéo mã nguồn mới nhất từ GitHub
-            git pull origin main
+            # Đồng bộ lại trạng thái code vùng local trên EC2, tránh xung đột bất ngờ khi pull
+            git fetch origin main
+            git reset --hard origin/main
             
-            # Khởi động lại các container bằng Docker Compose
-            docker compose down
-            docker compose up -d --build
+            # Khởi động lại ứng dụng một cách mượt mà (Zero-Downtime nâng cấp)
+            # Docker sẽ tự động build image ngầm, khi xong mới hoán đổi container cũ sang mới
+            docker compose up -d --build --remove-orphans
             
-            # Dọn dẹp Docker images cũ/rác để giải phóng dung lượng ổ đĩa
-            docker image prune -f
+            # Dọn dẹp triệt để các layer, image cũ hoặc bị treo (dangling) để giải phóng RAM/Ổ đĩa cho EC2
+            docker system prune -f --volumes
